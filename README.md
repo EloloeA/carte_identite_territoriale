@@ -25,7 +25,8 @@ Le travail a été effectué par une équipe de 5 étudiants de la Wild Code Sch
 Dash est un framework Python permettant de créer des applications web. Plus d'infos sur [Dash Plotly](https://dash.plotly.com/).
 
 Les fichiers :
-- app.py => code Python d'execution du dashboard
+- app.py => code Python d'execution du dashboard. 
+Attention "Le programme suppose que la base de donnée APIDAE_Final.csv ce trouve dans le dossier data."
 - outils.py => module nécessaire à l'execution de app.py et contenant les principales fonctions
 
 data => répertoire des données
