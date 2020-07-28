@@ -41,14 +41,6 @@ color : #014b86;
 }
 
 
-.displayNameDate
-{
-display : flex;
-background-color : #0072bc;
-justify-content : space-around;
-
-}
-
 
 #superficieDepPop
 {
@@ -107,13 +99,12 @@ border-radius: 5px;
 color : #fcb017;
 }
 
-.mapLocalisation
 
-#output-container-date-picker-range
+footer
 {
-margin : 20px;
+text-align : center;
+font-style : italic;
 }
-
 
 
 
