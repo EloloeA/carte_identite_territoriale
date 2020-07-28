@@ -1,7 +1,7 @@
 # Projet-CI-territoire
 
 ## Description du projet
-Le projet est une "Carte d’identité" de n’importe quelle commune de la région SUD (Provence-Alpes-Côte d’Azur).
+Le projet est une "Carte d’identité" des communes de la région SUD (Provence-Alpes-Côte d’Azur).
 
 ## Objectif du projet
 Une telle carte permet de mettre au même niveau de lisibilité une commune de 50, 1000, 100 000 ou 1 M d’habitants.
@@ -26,6 +26,9 @@ Le travail a été effectué par une équipe de 5 étudiants de la Wild Code Sch
 Les fichiers :
 - app.py => code Python d'execution du dashboard
 - outils.py => module nécessaire à l'execution de app.py et contenant les principales fonctions
+
 data => répertoire des données
 
-Un sondage auprès de XX personnes a été préalablement effectué. Les résultats de ce sondage sont également disponibles dans le dossier SONDAGE.
+assets => dossier contenant le fichier style.css nécessaire pour la mise en forme du dashboard
+
+Un sondage auprès de 160 personnes a été préalablement effectué. Les résultats de ce sondage sont également disponibles dans le dossier SONDAGE.
