@@ -1,0 +1,771 @@
+,Nom,Code postal,Commune,Code insee,Longitude,Latitude,GeoPoint,Type
+0,Refuge Agnel,5350,Molines-en-Queyras,5077,6.971472,44.690642,"44.690642,6.971472",Hébergement
+1,Refuge Buffère,5100,Névache,5093,6.570826,45.012814,"45.012814,6.570826",Hébergement
+2,Refuge Adèle Planchard,5480,Villar d'Arène,5181,6.344776,44.968839,"44.968839,6.344776",Hébergement
+3,AUBERGE DE JEUNESSE LES CAMELIAS,6000,Nice,6088,7.269038,43.701884,"43.701884,7.269038",Hébergement
+4,Chabournéou,5800,La Chapelle-en-Valgaudemar,5064,6.3215,44.812478,"44.812478,6.3215",Hébergement
+5,Sunêlia Les Logis d'Orres,5200,Les Orres,5098,6.555018,44.500171,"44.500171,6.555018",Hébergement
+6,Refuge de Basse Rua,5600,Guillestre,5065,6.72192,44.62172,"44.62172,6.72192",Hébergement
+7,Refuge de l'Aigle,5320,La Grave,5063,6.324338,45.011208,"45.011208,6.324338",Hébergement
+8,Chalance,5800,La Chapelle-en-Valgaudemar,5064,6.236694,44.841401,"44.841401,6.236694",Hébergement
+9,Refuge des Merveilles,6430,Tende,6163,7.451824,44.057442,"44.057442,7.451824",Hébergement
+10,Refuge de la Blanche,5350,Saint-Véran,5157,6.941649,44.666506,"44.666506,6.941649",Hébergement
+11,L'Olan,5800,La Chapelle-en-Valgaudemar,5064,6.204389,44.841386,"44.841386,6.204389",Hébergement
+12,Résidence de Tourisme Le Hameau des Écrins,5290,Puy-Saint-Vincent,5110,6.482172,44.818146,"44.818146,6.482172",Hébergement
+13,Refuge Laval,5100,Névache,5093,6.529996,45.057614,"45.057614,6.529996",Hébergement
+14,Résidence de Tourisme La Dame Blanche,5290,Puy-Saint-Vincent,5110,6.482692,44.816944,"44.816944,6.482692",Hébergement
+15,Refuge de la Cime,5600,Ceillac,5026,6.803039,44.644133,"44.644133,6.803039",Hébergement
+16,Résidence le Parc aux Étoiles,5290,Puy-Saint-Vincent,5110,6.481072,44.816632,"44.816632,6.481072",Hébergement
+17,Village de vacances le Graffionier CCE Air France,83580,Gassin,83065,6.555677,43.217503,"43.217503,6.555677",Hébergement
+18,CASTEL ARABEL,6600,Antibes,6004,7.111075,43.573502,"43.573502,7.111075",Hébergement
+19,Résidence Vallon Paradis,4800,Gréoux-les-Bains,4094,5.892064,43.76142,"43.76142,5.892064",Hébergement
+20,Refuge des Bans,5340,Vallouise-Pelvoux,5101,6.361153,44.834428,"44.834428,6.361153",Hébergement
+21,Vallonpierre,5800,La Chapelle-en-Valgaudemar,5064,6.289587,44.798556,"44.798556,6.289587",Hébergement
+22,Au Vialaou,5100,Névache,5093,6.604883,45.019073,"45.019073,6.604883",Hébergement
+23,Gîte d'étape et de séjour Saint Pierre,4240,Le Fugeret,4090,6.642099,44.003357,"44.003357,6.642099",Hébergement
+24,Refuge du Chardonnet,5100,Névache,5093,6.532031,45.025858,"45.025858,6.532031",Hébergement
+25,Résidence L'Edelweiss,5800,La Chapelle-en-Valgaudemar,5064,6.195285,44.816903,"44.816903,6.195285",Hébergement
+26,Les Chalets de Bois Méan,5200,Les Orres,5098,6.552567,44.483988,"44.483988,6.552567",Hébergement
+27,Les Souffles,5800,Villar-Loubière,5182,6.146475,44.844714,"44.844714,6.146475",Hébergement
+28,Pierre et Vacances Premium Les Rives de Cannes Mandelieu,6210,Mandelieu-la-Napoule,6079,6.943906,43.535151,"43.535151,6.943906",Hébergement
+29,Refuge de l'Olan,5800,La Chapelle-en-Valgaudemar,5064,6.204428,44.841523,"44.841523,6.204428",Hébergement
+30,Refuge du Glacier Blanc,5340,Vallouise-Pelvoux,5101,6.41164,44.937545,"44.937545,6.41164",Hébergement
+31,Résidence de Tourisme Les Gentianes,5290,Puy-Saint-Vincent,5110,6.480804,44.817705,"44.817705,6.480804",Hébergement
+32,Résidence Les Prés ronds,5800,La Chapelle-en-Valgaudemar,5064,6.195285,44.816903,"44.816903,6.195285",Hébergement
+33,Résidence Les Oulles,5800,La Chapelle-en-Valgaudemar,5064,6.195285,44.816903,"44.816903,6.195285",Hébergement
+34,Les Cristallines - Groupe Popinns,5170,Orcières,5096,6.32864,44.696534,"44.696534,6.32864",Hébergement
+35,VVF Villages La Garde-Freinet,83680,La Garde-Freinet,83063,6.469076,43.3178,"43.3178,6.469076",Hébergement
+36,Gîte de groupe La Mélie,84390,Aurel,84005,5.428783,44.1302,"44.1302,5.428783",Hébergement
+37,GITE DE SAUZE,6470,Sauze,6133,6.834948,44.087716,"44.087716,6.834948",Hébergement
+38,Refuge du Viso,5460,Ristolas,5120,7.051468,44.70043,"44.70043,7.051468",Hébergement
+39,La Villa Sévigné,4800,Gréoux-les-Bains,4094,5.891919,43.761867,"43.761867,5.891919",Hébergement
+40,Château la Voulte,83220,Le Pradet,83098,6.023433,43.110605,"43.110605,6.023433",Hébergement
+41,"Gîte de groupe ""La bergerie des lilas""",84390,Saint-Christol,84107,5.487715,44.049728,"44.049728,5.487715",Hébergement
+42,Les Écrins,5260,Ancelle,5004,6.205691,44.623591,"44.623591,6.205691",Hébergement
+43,Villa Marie-Jeanne,83400,Hyères,83069,6.435896,43.018101,"43.018101,6.435896",Hébergement
+44,Refuge des Ecrins,5340,Vallouise-Pelvoux,5101,6.383095,44.947334,"44.947334,6.383095",Hébergement
+45,Refuge du Lac du Pavé,5480,Villar d'Arène,5181,6.32853,44.986166,"44.986166,6.32853",Hébergement
+46,Gîte l'arc-en-ciel,4120,La Palud-sur-Verdon,4144,6.342211,43.779881,"43.779881,6.342211",Hébergement
+47,Le Clot - Xavier Blanc,5800,La Chapelle-en-Valgaudemar,5064,6.28021,44.831435,"44.831435,6.28021",Hébergement
+48,Refuge Napoléon,5100,Cervières,5027,6.73303,44.823018,"44.823018,6.73303",Hébergement
+49,Refuge des Drayères,5100,Névache,5093,6.508084,45.081127,"45.081127,6.508084",Hébergement
+50,ResidHotel Grand Avignon,84270,Vedène,84141,4.88839,43.962532,"43.962532,4.88839",Hébergement
+51,Le Brudou,5260,Saint-Jean-Saint-Nicolas,5145,6.225461,44.670759,"44.670759,6.225461",Hébergement
+52,Refuge Ricou,5100,Névache,5093,6.544629,45.046176,"45.046176,6.544629",Hébergement
+53,Le Fontenil,5460,Ristolas,5120,6.958318,44.773325,"44.773325,6.958318",Hébergement
+54,Ethic Etapes - Le Relais de Nature,5100,Briançon,5023,6.611256,44.877962,"44.877962,6.611256",Hébergement
+55,Refuge Terzo Alpini,5100,Névache,5093,6.62276,45.069645,"45.069645,6.62276",Hébergement
+56,Résidence de Tourisme Les Chalets Odalys,5290,Puy-Saint-Vincent,5110,6.481374,44.818728,"44.818728,6.481374",Hébergement
+57,Hôtel Résidence le Parc Hôtel,5100,Briançon,5023,6.634219,44.896795,"44.896795,6.634219",Hébergement
+58,Refuge du lac d'Allos,4260,Allos,4006,6.707032,44.237789,"44.237789,6.707032",Hébergement
+59,Résidence de Tourisme la Chalp,5470,Aiguilles,5003,6.871618,44.783613,"44.783613,6.871618",Hébergement
+60,VVF Villages La Recula,5260,Saint-Léger-les-Mélèzes,5149,6.210108,44.64704,"44.64704,6.210108",Hébergement
+61,Nemea L'Adret,5330,Saint-Chaffrey,5133,6.590162,44.932414,"44.932414,6.590162",Hébergement
+62,Résidence Les Cigales,6210,Mandelieu-la-Napoule,6079,6.942113,43.538924,"43.538924,6.942113",Hébergement
+63,Village Vacances VVF,5600,Ceillac,5026,6.777934,44.668066,"44.668066,6.777934",Hébergement
+64,VVF Villages,5230,Chorges,5040,6.32151,44.525587,"44.525587,6.32151",Hébergement
+65,Club Serre du Villard Vacances Bleues,5230,Chorges,5040,6.287929,44.527607,"44.527607,6.287929",Hébergement
+66,Gîte Au Fil de l'Onde,5340,Vallouise-Pelvoux,5101,6.488899,44.838776,"44.838776,6.488899",Hébergement
+67,VTF Les Esquirousses,5350,Arvieux,5007,6.730728,44.792246,"44.792246,6.730728",Hébergement
+68,La Pousterle,5260,Saint-Jean-Saint-Nicolas,5145,6.240775,44.671391,"44.671391,6.240775",Hébergement
+69,Domaine de l'Ecrin du Lac,5230,Chorges,5040,6.304423,44.504303,"44.504303,6.304423",Hébergement
+70,Centre de vacances de Biabaux,4870,Saint-Michel-l'Observatoire,4192,5.749847,43.890282,"43.890282,5.749847",Hébergement
+71,Refuge de l'Estrop,4420,Prads-Haute-Bléone,4155,6.525146,44.273244,"44.273244,6.525146",Hébergement
+72,village vacances Le Chadenas,5200,Embrun,5046,6.460367,44.546938,"44.546938,6.460367",Hébergement
+73,Hôtel Club Les Hyvans,5230,Chorges,5040,6.304436,44.499383,"44.499383,6.304436",Hébergement
+74,Vacanciel Carqueiranne,83320,Carqueiranne,83034,6.093116,43.090176,"43.090176,6.093116",Hébergement
+75,Gite d'étape et de séjour de la Poste,4320,Entrevaux,4076,6.810133,43.948871,"43.948871,6.810133",Hébergement
+76,Village Club du Soleil,5170,Orcières,5096,6.326258,44.694323,"44.694323,6.326258",Hébergement
+77,Nemea Appart' Hotel Green Side,6410,Biot,6018,7.099022,43.627233,"43.627233,7.099022",Hébergement
+78,Vers les cimes,5260,Saint-Jean-Saint-Nicolas,5145,6.192352,44.660244,"44.660244,6.192352",Hébergement
+79,ADAGIO ACCESS NICE MAGNAN,6000,Nice,6088,7.211361,43.687748,"43.687748,7.211361",Hébergement
+80,Refuge des lacs de Vens,6660,Saint-Étienne-de-Tinée,6120,6.941953,44.316702,"44.316702,6.941953",Hébergement
+81,Villa Saint Camille,6590,Théoule-sur-Mer,6138,6.93895,43.507685,"43.507685,6.93895",Hébergement
+82,Refuge de l'Estrop,4260,La Foux d’Allos,4902,6.532675,44.282158,"44.282158,6.532675",Hébergement
+83,Auberge de jeunesse,4120,La Palud-sur-Verdon,4144,6.341747,43.775501,"43.775501,6.341747",Hébergement
+84,Résidence de Tourisme - Villa Artemys,6230,Saint-Jean-Cap-Ferrat,6121,7.333202,43.687083,"43.687083,7.333202",Hébergement
+85,Pierre et Vacances Les Rivages,83380,Roquebrune sur Argens - Les Issambres,83999,6.685342,43.343548,"43.343548,6.685342",Hébergement
+86,Gîte d'étape et de séjour des Bayles,4120,Soleilhas,4210,6.651165,43.855968,"43.855968,6.651165",Hébergement
+87,UCPA le Verdon,4120,La Palud-sur-Verdon,4144,6.339645,43.779236,"43.779236,6.339645",Hébergement
+88,Gîte de Chanolles,4420,Prads-Haute-Bléone,4155,6.419976,44.152964,"44.152964,6.419976",Hébergement
+89,La Maison des lacs,83630,Les Salles-sur-Verdon,83122,6.213436,43.774304,"43.774304,6.213436",Hébergement
+90,Les bastides des chaumettes,83440,Montauroux,83081,6.772445,43.607221,"43.607221,6.772445",Hébergement
+91,Pinfol,5600,Réotier,5116,6.567183,44.661005,"44.661005,6.567183",Hébergement
+92,Refuge de Gialorgues,6660,Saint-Dalmas-le-Selvage,6119,6.819769,44.236532,"44.236532,6.819769",Hébergement
+93,La Maison des hôtes,4250,La Motte-du-Caire,4134,6.028317,44.343407,"44.343407,6.028317",Hébergement
+94,Village de vacances Les Tourelles,83120,Sainte-Maxime,83115,6.642765,43.308824,"43.308824,6.642765",Hébergement
+95,CGH Résidences & Spas Le Chalet des Dolines,5100,Montgenèvre,5085,6.728268,44.934411,"44.934411,6.728268",Hébergement
+96,Gîte de Flagustelle,4140,Verdaches,4235,6.342574,44.265697,"44.265697,6.342574",Hébergement
+97,VVF Villages Le Roure,5500,Saint-Bonnet-en-Champsaur,5132,6.081678,44.679021,"44.679021,6.081678",Hébergement
+98,Logis des Jeunes du Comtat Venaissin,84200,Carpentras,84031,5.055889,44.045301,"44.045301,5.055889",Hébergement
+99,"Relais international de la jeunesse ""Thalassa""",6320,Cap-d'Ail,6032,7.392414,43.720659,"43.720659,7.392414",Hébergement
+100,Refuge de l'Alpe de Villar d'Arène,5480,Villar d'Arène,5181,6.384644,44.996398,"44.996398,6.384644",Hébergement
+101,Résidence L' Ermitage,83150,Bandol,83009,5.750828,43.132352,"43.132352,5.750828",Hébergement
+102,Quen'Chan'T le Guil,5470,Aiguilles,5003,6.868166,44.781029,"44.781029,6.868166",Hébergement
+103,Résidence Le Bosquet,83150,Bandol,83009,5.760001,43.143387,"43.143387,5.760001",Hébergement
+104,Pom d'Ecrins,5340,Vallouise-Pelvoux,5101,6.491994,44.847307,"44.847307,6.491994",Hébergement
+105,La Louvière,5240,La Salle les Alpes,5161,6.554562,44.943496,"44.943496,6.554562",Hébergement
+106,Le Jardin Des Ecrins,5120,Saint-Martin-de-Queyrières,5151,6.568892,44.822445,"44.822445,6.568892",Hébergement
+107,Résidence Maeva Louis Lumière,83150,Bandol,83009,5.751455,43.133943,"43.133943,5.751455",Hébergement
+108,Les Mas de l'Estérel - Village Club BTP Vacances,83530,Agay,83998,6.871613,43.432884,"43.432884,6.871613",Hébergement
+109,Le Prorel,5330,Saint-Chaffrey,5133,6.590379,44.931505,"44.931505,6.590379",Hébergement
+110,Résidence Maeva Port,83150,Bandol,83009,5.751586,43.133236,"43.133236,5.751586",Hébergement
+111,Maison Audemard,4260,Allos,4006,6.627845,44.240364,"44.240364,6.627845",Hébergement
+112,Résidence Pierre et Vacances Premium Port Prestige,6600,Antibes,6004,7.123138,43.583213,"43.583213,7.123138",Hébergement
+113,UCPA Grand Serre Che,5240,La Salle les Alpes,5161,6.558023,44.943812,"44.943812,6.558023",Hébergement
+114,CCAS EDF (réservé aux adhérents),5220,Le Monêtier-les-Bains,5079,6.500973,44.973582,"44.973582,6.500973",Hébergement
+115,Gîte du Boissillon,5300,Val Buëch-Méouge,5118,5.816231,44.277378,"44.277378,5.816231",Hébergement
+116,L'Oustaou du Luberon,84530,Villelaure,84147,5.431548,43.723469,"43.723469,5.431548",Hébergement
+117,Les Hauts de Gréoux,4800,Gréoux-les-Bains,4094,5.882005,43.760778,"43.760778,5.882005",Hébergement
+118,Résidence Airelle,4800,Gréoux-les-Bains,4094,5.892691,43.757993,"43.757993,5.892691",Hébergement
+119,Centre Azur des ucjg,83110,Sanary-sur-Mer,83123,5.783782,43.120341,"43.120341,5.783782",Hébergement
+120,Pom d'Ecrins,5340,Vallouise-Pelvoux,5101,6.492139,44.847195,"44.847195,6.492139",Hébergement
+121,Résidence hôtelière le Glacier Blanc,5340,Vallouise-Pelvoux,5101,6.485925,44.869861,"44.869861,6.485925",Hébergement
+122,Gîte Béthanie,5130,Saint-Étienne-le-Laus,5140,6.151319,44.520077,"44.520077,6.151319",Hébergement
+123,Fol Ardèche : le mas de l'Artaude,83220,Le Pradet,83098,6.024651,43.100163,"43.100163,6.024651",Hébergement
+124,L'Orange Bleue,5560,Vars,5177,6.693335,44.600216,"44.600216,6.693335",Hébergement
+125,La Campagne des Vignaus - Gîte d'étape,4230,Saint-Étienne-les-Orgues,4178,5.773193,44.042605,"44.042605,5.773193",Hébergement
+126,Gîte La Gélinotte,4140,Auzet,4017,6.313746,44.289611,"44.289611,6.313746",Hébergement
+127,Résidence Sainte Annette,4800,Gréoux-les-Bains,4094,5.888396,43.761164,"43.761164,5.888396",Hébergement
+128,Gîte d'étape et de séjour L'étape brauxoise,4240,Braux,4032,6.699538,43.986969,"43.986969,6.699538",Hébergement
+129,Refuge du Col de Cabre,5140,La Beaume,5019,5.598264,44.549637,"44.549637,5.598264",Hébergement
+130,Les Mouettes,83220,Le Pradet,83098,6.02216,43.087507,"43.087507,6.02216",Hébergement
+131,Chalet L'Eyssina / Chalet Le Forest,5560,Vars,5177,6.690245,44.592943,"44.592943,6.690245",Hébergement
+132,L'Arche,5260,Ancelle,5004,6.201653,44.620563,"44.620563,6.201653",Hébergement
+133,Odcvl Le Chatelrêt,5560,Vars,5177,6.688828,44.595021,"44.595021,6.688828",Hébergement
+134,Domaine de la Bégude,83440,Fayence,83055,6.654749,43.585094,"43.585094,6.654749",Hébergement
+135,Refuge Furfande,5350,Arvieux,5007,6.712201,44.727738,"44.727738,6.712201",Hébergement
+136,Le Val D'Escreins,5560,Vars,5177,6.687455,44.611948,"44.611948,6.687455",Hébergement
+137,Les Eglantines,5560,Vars,5177,6.694794,44.601255,"44.601255,6.694794",Hébergement
+138,Le Torrent,5260,Ancelle,5004,6.205387,44.623892,"44.623892,6.205387",Hébergement
+139,L'Aventure,5500,Saint-Bonnet-en-Champsaur,5132,6.066463,44.702458,"44.702458,6.066463",Hébergement
+140,VILLA SAINT EXUPERY PLAGE,6000,Nice,6088,7.270118,43.698741,"43.698741,7.270118",Hébergement
+141,Gîte de groupe La Sparagoule,84480,Buoux,84023,5.378202,43.831395,"43.831395,5.378202",Hébergement
+142,Refuge du hameau d'Aurent,4320,Castellet-lès-Sausses,4042,6.718397,44.04537,"44.04537,6.718397",Hébergement
+143,Les Hirondelles,5500,Saint-Bonnet-en-Champsaur,5132,6.09767,44.678363,"44.678363,6.09767",Hébergement
+144,Le Champ d'Or,5260,Chabottes,5029,6.181483,44.646872,"44.646872,6.181483",Hébergement
+145,MOTEL ASCOT,6800,Cagnes-sur-Mer,6027,7.154974,43.652776,"43.652776,7.154974",Hébergement
+146,Refuge de Notre-Dame de Lure,4230,Saint-Étienne-les-Orgues,4178,5.792797,44.096934,"44.096934,5.792797",Hébergement
+147,Gîte de séjour la Magnanarié,84110,Villedieu,84146,5.027533,44.289296,"44.289296,5.027533",Hébergement
+148,Le Val Fleuri,4140,Selonnet,4203,6.31611,44.370967,"44.370967,6.31611",Hébergement
+149,Résidence les Chalets du Verdon,4260,La Foux d’Allos,4902,6.570592,44.287028,"44.287028,6.570592",Hébergement
+150,Vacances Léo Lagrange,84480,Buoux,84023,5.371129,43.835755,"43.835755,5.371129",Hébergement
+151,Auberge de jeunesse de Serre-Chevalier,5240,La Salle les Alpes,5161,6.553521,44.944798,"44.944798,6.553521",Hébergement
+152,Les Bastides de Fayence,83440,Tourrettes,83138,6.731737,43.605769,"43.605769,6.731737",Hébergement
+153,Résidence Le Provençal,83400,Hyères,83069,6.129598,43.035573,"43.035573,6.129598",Hébergement
+154,Les Granges - gîte d'étape,4230,Ongles,4141,5.71363,44.023063,"44.023063,5.71363",Hébergement
+155,Odalys Résidence Open,6220,Vallauris Golfe - Juan,6155,7.081186,43.57325,"43.57325,7.081186",Hébergement
+156,Résidence Lagrange Port Marine,83120,Sainte-Maxime,83115,6.631684,43.308418,"43.308418,6.631684",Hébergement
+157,"VVF - Villages VTF ""Les Heures Claires""",83120,Sainte-Maxime,83115,6.662746,43.320978,"43.320978,6.662746",Hébergement
+158,Mas de l'Orangerie,4800,Gréoux-les-Bains,4094,5.888397,43.761165,"43.761165,5.888397",Hébergement
+159,Les Restanques du Carré Beauchêne,83120,Sainte-Maxime,83115,6.639489,43.317966,"43.317966,6.639489",Hébergement
+160,La Villa Sévigné,4800,Gréoux-les-Bains,4094,5.891919,43.761867,"43.761867,5.891919",Hébergement
+161,Lou Trélus,83120,Sainte-Maxime,83115,6.62443,43.299176,"43.299176,6.62443",Hébergement
+162,Les Jonquilles,5500,Saint-Julien-en-Champsaur,5147,6.129129,44.659673,"44.659673,6.129129",Hébergement
+163,Gite L'Aiglière,5340,Vallouise-Pelvoux,5101,6.485356,44.845165,"44.845165,6.485356",Hébergement
+164,MASSENA (le),6400,Cannes,6029,7.020888,43.565131,"43.565131,7.020888",Hébergement
+165,Golfe Residence,6220,Vallauris Golfe - Juan,6155,7.083738,43.570118,"43.570118,7.083738",Hébergement
+166,Le Pas du Loup,5120,Saint-Martin-de-Queyrières,5151,6.564478,44.830498,"44.830498,6.564478",Hébergement
+167,Village de vacances Paul Bert,5150,Rosans,5126,5.46308,44.389682,"44.389682,5.46308",Hébergement
+168,Observatoire-Refuge du Mont Chiran,4330,Blieux,4030,6.317102,43.86798,"43.86798,6.317102",Hébergement
+169,Les Mas de Haute-Provence,4230,Saint-Étienne-les-Orgues,4178,5.77569,44.037154,"44.037154,5.77569",Hébergement
+170,Résidence Albizia,4800,Gréoux-les-Bains,4094,5.882005,43.760778,"43.760778,5.882005",Hébergement
+171,Domaine de Val Ubaye,5200,Baratier,5012,6.498764,44.53146,"44.53146,6.498764",Hébergement
+172,Résidence de Tourisme les Balcons du Soleil,4260,La Foux d’Allos,4902,6.568488,44.298593,"44.298593,6.568488",Hébergement
+173,Gîte des Monges,4200,Authon,4016,6.127749,44.237607,"44.237607,6.127749",Hébergement
+174,Les Chalets des Rosières,5150,Rosans,5126,5.461578,44.382244,"44.382244,5.461578",Hébergement
+175,Logis des Templiers,4800,Gréoux-les-Bains,4094,5.884147,43.759713,"43.759713,5.884147",Hébergement
+176,GITE LES CHAMPOUNS,6450,Venanson,6156,7.249482,44.078659,"44.078659,7.249482",Hébergement
+177,Centre de vacances de Fabrégas,83500,La Seyne-sur-Mer,83126,5.878466,43.074228,"43.074228,5.878466",Hébergement
+178,FLECHE (la),6380,Sospel,6136,7.447317,43.877899,"43.877899,7.447317",Hébergement
+179,Refuge de Chabournéou,5800,La Chapelle-en-Valgaudemar,5064,6.314972,44.809982,"44.809982,6.314972",Hébergement
+180,Résidence de tourisme Central Park,4260,La Foux d’Allos,4902,6.569218,44.289097,"44.289097,6.569218",Hébergement
+181,Village de vacances La Bayette,83220,Le Pradet,83098,6.038461,43.106555,"43.106555,6.038461",Hébergement
+182,Village vacances CRE RATP,83500,La Seyne-sur-Mer,83126,5.889936,43.090714,"43.090714,5.889936",Hébergement
+183,Gîte d'étape et de séjour la Chambrette,4330,Blieux,4030,6.368988,43.872309,"43.872309,6.368988",Hébergement
+184,Hôtel-Résidence Le Moulin,4800,Gréoux-les-Bains,4094,5.890315,43.756205,"43.756205,5.890315",Hébergement
+185,Refuge du Chambeyron,4530,Saint-Paul-sur-Ubaye,4193,6.836046,44.530148,"44.530148,6.836046",Hébergement
+186,Refuge de Maljasset,4530,Saint-Paul-sur-Ubaye,4193,6.842509,44.592704,"44.592704,6.842509",Hébergement
+187,Gîte d'étape et de séjour la Calade,4120,Castellane,4039,6.534941,43.843037,"43.843037,6.534941",Hébergement
+188,Unique Hôtels & Résidences,83700,Saint-Raphaël,83118,6.765702,43.42474,"43.42474,6.765702",Hébergement
+189,LUCIOLES (les),6560,Valbonne,6152,7.053375,43.615117,"43.615117,7.053375",Hébergement
+190,Résidence le Galoubet - Grand bleu voyages,83210,Solliès-Toucas,83131,6.029655,43.207487,"43.207487,6.029655",Hébergement
+191,Gîte les Eysserennes,5700,Savournon,5165,5.775762,44.425321,"44.425321,5.775762",Hébergement
+192,Chalet de la Maline,4120,La Palud-sur-Verdon,4144,6.344916,43.746281,"43.746281,6.344916",Hébergement
+193,L'Inattendu Gîte de séjour & Restaurant,4140,Le Vernet,4237,6.395253,44.282179,"44.282179,6.395253",Hébergement
+194,Résidence de tourisme Plein Sud,4260,La Foux d’Allos,4902,6.565141,44.291958,"44.291958,6.565141",Hébergement
+195,Le Relais du Grand Logis - Village de Gîtes,84120,Mirabeau,84076,5.672727,43.701684,"43.701684,5.672727",Hébergement
+196,Gîte Belle Valette,4420,Prads-Haute-Bléone,4155,6.440157,44.218805,"44.218805,6.440157",Hébergement
+197,Black Sheep Lodge,5320,La Grave,5063,6.316258,45.057493,"45.057493,6.316258",Hébergement
+198,Complexe tourisitique de l'ïle des Embiez,83140,Six-Fours-les-Plages,83129,5.782181,43.077538,"43.077538,5.782181",Hébergement
+199,Gîte d'étape Le Jas des Bailles,4200,Valbelle,4229,5.8613,44.12394,"44.12394,5.8613",Hébergement
+200,Refuge de Chalance,5800,La Chapelle-en-Valgaudemar,5064,6.236673,44.841367,"44.841367,6.236673",Hébergement
+201,L'Etape,6270,Villeneuve-Loubet,6161,7.13928,43.638536,"43.638536,7.13928",Hébergement
+202,SC Résidence Eden,83990,Saint-Tropez,83119,6.635173,43.268025,"43.268025,6.635173",Hébergement
+203,Résidence les Prés,4260,Allos,4006,6.623194,44.242978,"44.242978,6.623194",Hébergement
+204,RESIDENCE DE VACANCES L'OLIVERAIE,6500,Menton,6083,7.489202,43.777041,"43.777041,7.489202",Hébergement
+205,Gîte d'étape et de séjour Le Mur d'Abeilles,4120,Rougon,4171,6.402689,43.799197,"43.799197,6.402689",Hébergement
+206,Village Club La Gaillarde - Cap’vacances,83380,Roquebrune sur Argens - Les Issambres,83999,6.711363,43.365316,"43.365316,6.711363",Hébergement
+207,Le Balcon des Airelles,5200,Les Orres,5098,6.552782,44.484605,"44.484605,6.552782",Hébergement
+208,Résidence Odalys Vacances - Aquisana,5240,La Salle les Alpes,5161,6.553028,44.951424,"44.951424,6.553028",Hébergement
+209,Gîte La Bertine,4420,Prads-Haute-Bléone,4155,6.462136,44.164816,"44.164816,6.462136",Hébergement
+210,Village Vacances Vaison,84110,Vaison-la-Romaine,84137,5.072483,44.255107,"44.255107,5.072483",Hébergement
+211,Chalet refuge de Chamoissière,5320,La Grave,5063,6.385407,44.995689,"44.995689,6.385407",Hébergement
+212,RESIDENCE PIERRE ET VACANCES LES CITRONNIERS,6500,Menton,6083,7.499001,43.774801,"43.774801,7.499001",Hébergement
+213,Trimurti village,83310,Cogolin,83042,6.469918,43.252674,"43.252674,6.469918",Hébergement
+214,Résidence de tourisme les Cimes du Val d'Allos,4260,La Foux d’Allos,4902,6.569091,44.297768,"44.297768,6.569091",Hébergement
+215,Gite d'étape  Le Trait,4150,Redortiers,4159,5.61523,44.102357,"44.102357,5.61523",Hébergement
+216,CLARION SUITES CANNES CROISETTE,6400,Cannes,6029,7.030443,43.549868,"43.549868,7.030443",Hébergement
+217,V.T.F. Marin'Alpes,6270,Villeneuve-Loubet,6161,7.12927,43.632534,"43.632534,7.12927",Hébergement
+218,Gîtes du Moulin,5700,Orpierre,5097,5.710917,44.31519,"44.31519,5.710917",Hébergement
+219,Domaine La Chapelle gîte de séjour,4300,Sigonce,4206,5.82133,43.998369,"43.998369,5.82133",Hébergement
+220,Appart City,83140,Six-Fours-les-Plages,83129,5.847006,43.111943,"43.111943,5.847006",Hébergement
+221,Les Balcons de Bois Méan,5200,Les Orres,5098,6.552883,44.483468,"44.483468,6.552883",Hébergement
+222,Centre de Session de La Castille,83260,La Crau,83047,6.069932,43.160514,"43.160514,6.069932",Hébergement
+223,Le Clos du Serret,5290,Puy-Saint-Vincent,5110,6.48122,44.831413,"44.831413,6.48122",Hébergement
+224,Gîte de groupe des Hauts de Saint-Jean,5000,Gap,5061,6.035525,44.527977,"44.527977,6.035525",Hébergement
+225,Gîte d'étape et de séjour L'Escalès,4120,La Palud-sur-Verdon,4144,6.338976,43.778784,"43.778784,6.338976",Hébergement
+226,Résidence de tourisme Caesar Domus - Odalys,83580,Gassin,83065,6.621838,43.261886,"43.261886,6.621838",Hébergement
+227,PERL STUDIOS VACANCES,6600,Antibes,6004,7.10364,43.599016,"43.599016,7.10364",Hébergement
+228,Gîte de Saint-Hubert,84390,Monieux,84079,5.322876,44.02467,"44.02467,5.322876",Hébergement
+229,Gîte d'étape et de séjour La Maison d'Adèle,4120,La Palud-sur-Verdon,4144,6.364342,43.77796,"43.77796,6.364342",Hébergement
+230,Gîte d'étape et de séjour l'Oustaou,4120,Castellane,4039,6.509492,43.844332,"43.844332,6.509492",Hébergement
+231,Refuge du Pigeonnier,5800,La Chapelle-en-Valgaudemar,5064,6.284918,44.854884,"44.854884,6.284918",Hébergement
+232,Hôtel Résidence Saint-Raphaël Riviera,83700,Saint-Raphaël,83118,6.820022,43.41759,"43.41759,6.820022",Hébergement
+233,Résidence du Vallon du Roy,83110,Sanary-sur-Mer,83123,5.781156,43.139325,"43.139325,5.781156",Hébergement
+234,Les Écureuils,4800,Gréoux-les-Bains,4094,5.88564,43.751561,"43.751561,5.88564",Hébergement
+235,Le Domaine de Camiole - Vacances Bleues,83440,Callian,83029,6.741698,43.622146,"43.622146,6.741698",Hébergement
+236,La Combe d'Or,5200,Les Orres,5098,6.553449,44.482472,"44.482472,6.553449",Hébergement
+237,UCPA - Le Levant,83400,Hyères,83069,6.435235,43.01576,"43.01576,6.435235",Hébergement
+238,Fondation du Bocage,83230,Bormes-les-Mimosas,83019,6.347614,43.122869,"43.122869,6.347614",Hébergement
+239,Villa Les Fleurs - Maison de vacances des Petits Frères des Pauvres,83500,La Seyne-sur-Mer,83126,5.883186,43.078119,"43.078119,5.883186",Hébergement
+240,CANNES CROISETTE PRESTIGE APPARTHOTEL,6400,Cannes,6029,7.024178,43.552407,"43.552407,7.024178",Hébergement
+241,Lagrange L'Alisier,6270,Villeneuve-Loubet,6161,7.127338,43.626666,"43.626666,7.127338",Hébergement
+242,RESIDHOTEL VILLA MAUPASSANT,6400,Cannes,6029,6.980288,43.548971,"43.548971,6.980288",Hébergement
+243,GITE LA FERRAGE,6640,Saint-Jeannet,6122,7.142112,43.746751,"43.746751,7.142112",Hébergement
+244,Azur Eden,6270,Villeneuve-Loubet,6161,7.137917,43.644114,"43.644114,7.137917",Hébergement
+245,Gîtes d'étape de Chaloux,4150,Simiane-la-Rotonde,4208,5.566667,43.983333,"43.983333,5.566667",Hébergement
+246,COULEURS SOLEIL,6600,Antibes,6004,7.111138,43.569629,"43.569629,7.111138",Hébergement
+247,Gîtes le Verger,5200,Baratier,5012,6.489611,44.537267,"44.537267,6.489611",Hébergement
+248,Les Écureuils,4800,Gréoux-les-Bains,4094,5.885683,43.751607,"43.751607,5.885683",Hébergement
+249,L'Hippodrome,6270,Villeneuve-Loubet,6161,7.13739,43.642296,"43.642296,7.13739",Hébergement
+250,Résidence Aryana,83140,Six-Fours-les-Plages,83129,5.817086,43.092462,"43.092462,5.817086",Hébergement
+251,Villa Velvet,6270,Villeneuve-Loubet,6161,7.138267,43.643868,"43.643868,7.138267",Hébergement
+252,Hôtel Club MMV l'Alpazur,5220,Le Monêtier-les-Bains,5079,6.512446,44.975637,"44.975637,6.512446",Hébergement
+253,Résidence Adonis,6470,Guillaumes,6071,6.928249,44.09522,"44.09522,6.928249",Hébergement
+254,Les Bastides de Grimaud - Garden City,83310,Grimaud,83068,6.511586,43.271866,"43.271866,6.511586",Hébergement
+255,MAISON BLANCHE (la),6600,Antibes,6004,7.109895,43.569438,"43.569438,7.109895",Hébergement
+256,Villa Soleil,83700,Saint-Raphaël,83118,6.778131,43.420155,"43.420155,6.778131",Hébergement
+257,Gîte communal de St Julien en Beauchêne,5140,Saint-Julien-en-Beauchêne,5146,5.711937,44.617874,"44.617874,5.711937",Hébergement
+258,Le Pavillon d'Aurabelle - Gite de groupe min 40 pers,4800,Gréoux-les-Bains,4094,5.862978,43.738582,"43.738582,5.862978",Hébergement
+259,Centre de Molines-en-Champsaur,5500,La Motte-en-Champsaur,5090,6.11996,44.747286,"44.747286,6.11996",Hébergement
+260,"Pierre & Vacances ""Les Platanes""",83120,Sainte-Maxime,83115,6.632956,43.30992,"43.30992,6.632956",Hébergement
+261,Résidence Les Terrasses des Embiez,83140,Six-Fours-les-Plages,83129,5.80546,43.07502,"43.07502,5.80546",Hébergement
+262,Domaine du Prorel,5100,Briançon,5023,6.621287,44.916316,"44.916316,6.621287",Hébergement
+263,RESIDENCE PIERRE & VACANCES LES RIVAGES DU PARC,6500,Menton,6083,7.505666,43.778846,"43.778846,7.505666",Hébergement
+264,Fiche Test 2 Hébergement d'accueil,6410,Biot,6018,7.099022,43.627233,"43.627233,7.099022",Hébergement
+265,Hôtel Le Vendôme - Belambra Club,6500,Menton,6083,7.503807,43.774932,"43.774932,7.503807",Hébergement
+266,GITE L'ESTELLE,6910,Amirat,6002,6.826507,43.890373,"43.890373,6.826507",Hébergement
+267,Village vacances La Font des Horts,83400,Hyères,83069,6.120803,43.087941,"43.087941,6.120803",Hébergement
+268,Vacanciel,83140,Six-Fours-les-Plages,83129,5.815372,43.09751,"43.09751,5.815372",Hébergement
+269,RESIDHOTEL CANNES FESTIVAL,6400,Cannes,6029,6.975585,43.549433,"43.549433,6.975585",Hébergement
+270,Le Moulin de Lavon,84400,Gargas,84047,5.333398,43.890209,"43.890209,5.333398",Hébergement
+271,"Gîte ""La Clairière"" au Logis du Pin",83840,La Martre,83074,6.621278,43.772018,"43.772018,6.621278",Hébergement
+272,Résidence la Gabinière,83400,Hyères,83069,6.155793,43.02836,"43.02836,6.155793",Hébergement
+273,Auberge de Villar d'Arène,5480,Villar d'Arène,5181,6.336209,45.042691,"45.042691,6.336209",Hébergement
+274,Résidence Azuréor,83400,Hyères,83069,6.149359,43.058325,"43.058325,6.149359",Hébergement
+275,Résidence Atlantis,83400,Hyères,83069,6.19168,43.11469,"43.11469,6.19168",Hébergement
+276,Le Clos des Galéjades (village),83400,Hyères,83069,6.204268,43.000637,"43.000637,6.204268",Hébergement
+277,Le Clos des Galéjades (phare),83400,Hyères,83069,6.204464,42.983372,"42.983372,6.204464",Hébergement
+278,Résidence la Pinède bleue,83400,Hyères,83069,6.147252,43.057892,"43.057892,6.147252",Hébergement
+279,L'Anaé,83400,Hyères,83069,6.12252,43.097475,"43.097475,6.12252",Hébergement
+280,Résidence Le Surplage,83400,Hyères,83069,6.14897,43.05966,"43.05966,6.14897",Hébergement
+281,Les îles d'or du Levant,83400,Hyères,83069,6.440869,43.019464,"43.019464,6.440869",Hébergement
+282,Le Gecko,83400,Hyères,83069,6.436741,43.017432,"43.017432,6.436741",Hébergement
+283,Résidence le Domaine de la mer,83400,Hyères,83069,6.14974,43.037647,"43.037647,6.14974",Hébergement
+284,Résidence les Sables d'Or,83400,Hyères,83069,6.149322,43.057912,"43.057912,6.149322",Hébergement
+285,Résidence Les Salins de Fontenay,83400,Hyères,83069,6.189958,43.127108,"43.127108,6.189958",Hébergement
+286,Résidence les Mèdes,83400,Hyères,83069,6.204044,43.001052,"43.001052,6.204044",Hébergement
+287,L'Agapanthine,5400,Manteyer,5075,5.953426,44.545704,"44.545704,5.953426",Hébergement
+288,Gîtes de Vaunières,5140,Saint-Julien-en-Beauchêne,5146,5.65341,44.637402,"44.637402,5.65341",Hébergement
+289,Résidence les Mandariniers,83400,Hyères,83069,6.14882,43.04774,"43.04774,6.14882",Hébergement
+290,Refuge du Clot - Xavier Blanc,5800,La Chapelle-en-Valgaudemar,5064,6.275533,44.829269,"44.829269,6.275533",Hébergement
+291,Résidence Mer et Vacances,83400,Hyères,83069,6.14851,43.04794,"43.04794,6.14851",Hébergement
+292,"Résidence Maeva, Le Port",83400,Hyères,83069,6.154433,43.080259,"43.080259,6.154433",Hébergement
+293,Résidence les Stoëchades,83400,Hyères,83069,6.1537,43.07596,"43.07596,6.1537",Hébergement
+294,La Fontaine de l'Ours,4140,Auzet,4017,6.314819,44.29023,"44.29023,6.314819",Hébergement
+295,Résidence Le Beau Rivage,83150,Bandol,83009,5.751064,43.132971,"43.132971,5.751064",Hébergement
+296,"Résidence Pierre & Vacances, La Pinède",83400,Hyères,83069,6.149727,43.039569,"43.039569,6.149727",Hébergement
+297,AGAPANTHES (les),6400,Cannes,6029,6.960511,43.56201,"43.56201,6.960511",Hébergement
+298,Gîte Les Mélézets,5100,Névache,5093,6.620578,45.018175,"45.018175,6.620578",Hébergement
+299,Résidence Clot la Chalp Hotesia,5350,Molines-en-Queyras,5077,6.847653,44.720254,"44.720254,6.847653",Hébergement
+300,LE PRIEURE,6470,Saint-Martin-d'Entraunes,6125,6.766948,44.147189,"44.147189,6.766948",Hébergement
+301,"Résidence Pierre & Vacances, Le H.ameau de la Pinède",83400,Hyères,83069,6.147096,43.040255,"43.040255,6.147096",Hébergement
+302,La Fontaine Basse,83840,Trigance,83142,6.447992,43.76047,"43.76047,6.447992",Hébergement
+303,La Fruitière,5350,Arvieux,5007,6.7575,44.744446,"44.744446,6.7575",Hébergement
+304,Chalet Vie Sauvage,5350,Château-Ville-Vieille,5038,6.842222,44.756668,"44.756668,6.842222",Hébergement
+305,Monastère de Ségriès,4360,Moustiers-Sainte-Marie,4135,6.175065,43.856138,"43.856138,6.175065",Hébergement
+306,Ferme du Petit Ségriès (hébergement de groupe),4360,Moustiers-Sainte-Marie,4135,6.191154,43.857561,"43.857561,6.191154",Hébergement
+307,La Bergerie,5310,Champcella,5031,6.571944,44.723331,"44.723331,6.571944",Hébergement
+308,Ecogite de l'Aigle,5600,Ceillac,5026,6.778611,44.669724,"44.669724,6.778611",Hébergement
+309,Le Cassu,5460,Abriès,5001,6.944167,44.819168,"44.819168,6.944167",Hébergement
+310,Gîte de Vénascle (hébergement de groupe),4360,Moustiers-Sainte-Marie,4135,6.251688,43.845786,"43.845786,6.251688",Hébergement
+311,La Maison de Gaudissard,5350,Molines-en-Queyras,5077,6.839445,44.736668,"44.736668,6.839445",Hébergement
+312,Abriès-Le Villard,5460,Abriès,5001,6.924722,44.794998,"44.794998,6.924722",Hébergement
+313,Alpelune,5290,Puy-Saint-Vincent,5110,6.5005,44.821301,"44.821301,6.5005",Hébergement
+314,Refuge du Seignas,4140,Barles,4020,6.214399,44.273465,"44.273465,6.214399",Hébergement
+315,La Ruche,5250,Le Dévoluy,5139,5.925278,44.721111,"44.721111,5.925278",Hébergement
+316,Les Carlines,5120,Les Vigneaux,5180,6.541111,44.825832,"44.825832,6.541111",Hébergement
+317,Gîte-Auberge de la Blanche,5340,Vallouise-Pelvoux,5101,6.49092,44.861488,"44.861488,6.49092",Hébergement
+318,Mas de l'Esquirou,84860,Caderousse,84027,4.757781,44.114688,"44.114688,4.757781",Hébergement
+319,Goélia Royal Cap,6270,Villeneuve-Loubet,6161,7.139497,43.637573,"43.637573,7.139497",Hébergement
+320,Les Miloux,5250,Le Dévoluy,5139,5.926389,44.719166,"44.719166,5.926389",Hébergement
+321,La Grange de Brudour,5800,Aspres-les-Corps,5009,6.005556,44.800278,"44.800278,6.005556",Hébergement
+322,L'Ancolie,5260,Saint-Jean-Saint-Nicolas,5145,6.247334,44.674026,"44.674026,6.247334",Hébergement
+323,Auberge Gaillard,5500,La Motte-en-Champsaur,5090,6.122806,44.74736,"44.74736,6.122806",Hébergement
+324,Le Liéraver,5250,Le Dévoluy,5139,5.941667,44.691387,"44.691387,5.941667",Hébergement
+325,CNE DE FOREST-ST-JULIEN,5260,Forest-Saint-Julien,5056,6.135833,44.63361,"44.63361,6.135833",Hébergement
+326,Le Chamois,5260,Saint-Michel-de-Chaillol,5153,6.171945,44.678333,"44.678333,6.171945",Hébergement
+327,Le Liéraver,5250,Le Dévoluy,5139,5.941313,44.691728,"44.691728,5.941313",Hébergement
+328,Air Sport Soleil Dreaméo village,83400,Hyères,83069,6.152392,43.036009,"43.036009,6.152392",Hébergement
+329,La Mourée,5560,Vars,5177,6.687281,44.609798,"44.609798,6.687281",Hébergement
+330,Gîte les Paris,5800,Saint-Jacques-en-Valgaudemar,5144,6.0325,44.766388,"44.766388,6.0325",Hébergement
+331,Le Gîte des 3 Cols,5160,Réallon,5114,6.3325,44.615833,"44.615833,6.3325",Hébergement
+332,Cial / CapVerb,5600,Guillestre,5065,6.651822,44.65739,"44.65739,6.651822",Hébergement
+333,Gîte Les Mélézets,5100,Névache,5093,6.620222,45.018082,"45.018082,6.620222",Hébergement
+334,Soleil Vacances Résidence Les Chênes Verts,83700,Saint-Raphaël,83118,6.820022,43.41759,"43.41759,6.820022",Hébergement
+335,Le Passe Montagne,5330,Saint-Chaffrey,5133,6.589722,44.93222,"44.93222,6.589722",Hébergement
+336,Les Miloux,5250,Le Dévoluy,5139,5.926373,44.719724,"44.719724,5.926373",Hébergement
+337,Pierre & Vacances Promenade des Bains,83700,Saint-Raphaël,83118,6.771119,43.420323,"43.420323,6.771119",Hébergement
+338,La Ferme de la Tour,5100,Briançon,5023,6.631945,44.875832,"44.875832,6.631945",Hébergement
+339,Les Voiles d'Azur - Village Vacances,83250,La Londe-les-Maures,83071,6.245871,43.127245,"43.127245,6.245871",Hébergement
+340,Village Club Cap Estérel,83530,Agay,83998,6.849997,43.425107,"43.425107,6.849997",Hébergement
+341,Le Mediterranee,83700,Saint-Raphaël,83118,6.769587,43.4216,"43.4216,6.769587",Hébergement
+342,Agathos,83530,Agay,83998,6.870967,43.428774,"43.428774,6.870967",Hébergement
+343,Argentière Club - Résidence de Vacances,83250,La Londe-les-Maures,83071,6.255421,43.123197,"43.123197,6.255421",Hébergement
+344,Mr et Mme BONNET et KOLLER Martine et J.Michel,5600,Guillestre,5065,6.625278,44.658054,"44.658054,6.625278",Hébergement
+345,Le Glacier Bleu,5600,Mont-Dauphin,5082,6.624166,44.668888,"44.668888,6.624166",Hébergement
+346,Azureva,83250,La Londe-les-Maures,83071,6.248389,43.135266,"43.135266,6.248389",Hébergement
+347,Chalet Le Fontenil,5220,Le Monêtier-les-Bains,5079,6.468611,45.006943,"45.006943,6.468611",Hébergement
+348,La maison d'Amélie,4240,Annot,4008,6.665092,43.963114,"43.963114,6.665092",Hébergement
+349,Maeva la corniche d'or,83700,Saint-Raphaël,83118,6.788671,43.411891,"43.411891,6.788671",Hébergement
+350,Maison Forestière ONF de Recours,5140,Aspres-sur-Buëch,5010,5.793067,44.612926,"44.612926,5.793067",Hébergement
+351,L'Aiguillette du Lauzet,5220,Le Monêtier-les-Bains,5079,6.463611,45.014999,"45.014999,6.463611",Hébergement
+352,L'Agapanthe,5400,Manteyer,5075,5.953333,44.545834,"44.545834,5.953333",Hébergement
+353,L'Alambic,5140,La Beaume,5019,5.638611,44.551109,"44.551109,5.638611",Hébergement
+354,Le Moulin de Montrond,5700,Montrond,5089,5.737222,44.389721,"44.389721,5.737222",Hébergement
+355,Chalet EEDF Le Fontenil,5220,Le Monêtier-les-Bains,5079,6.468329,45.00705,"45.00705,6.468329",Hébergement
+356,L'Aiguille - Actions Vacances,5170,Orcières,5096,6.324839,44.685124,"44.685124,6.324839",Hébergement
+357,Vacances Popinns - Le Chalet de l'Eterlou,5330,Saint-Chaffrey,5133,6.591754,44.931205,"44.931205,6.591754",Hébergement
+358,Gîte d'Etape de St Disdier,5250,Le Dévoluy,5139,5.895444,44.735474,"44.735474,5.895444",Hébergement
+359,Le Jardin des Ecrins,5120,Saint-Martin-de-Queyrières,5151,6.568861,44.827389,"44.827389,6.568861",Hébergement
+360,Chalet Accueil de la Biaysse,5310,Freissinières,5058,6.534976,44.753019,"44.753019,6.534976",Hébergement
+361,La Ruche,5250,Le Dévoluy,5139,5.924999,44.721565,"44.721565,5.924999",Hébergement
+362,Le Rocher Rond,5250,Le Dévoluy,5139,5.864444,44.691944,"44.691944,5.864444",Hébergement
+363,Résidence Lagrange Le Domaine des Grands Pins,83700,Saint-Raphaël,83118,6.776242,43.441067,"43.441067,6.776242",Hébergement
+364,Mediterranee paradise,83700,Saint-Raphaël,83118,6.807593,43.414646,"43.414646,6.807593",Hébergement
+365,Les Jardins d'Azur,83700,Saint-Raphaël,83118,6.805465,43.417003,"43.417003,6.805465",Hébergement
+366,Villa l'Ensoleillade,83250,La Londe-les-Maures,83071,6.255479,43.123157,"43.123157,6.255479",Hébergement
+367,Résidence Club Odalys l'Ile d'Or,83250,La Londe-les-Maures,83071,6.259817,43.121141,"43.121141,6.259817",Hébergement
+368,Vacancéole - Résidence Carré Marine,6210,Mandelieu-la-Napoule,6079,6.942016,43.535858,"43.535858,6.942016",Hébergement
+369,L'Yvraie,5250,Le Dévoluy,5139,5.848333,44.639168,"44.639168,5.848333",Hébergement
+370,Résidence Club Odalys Les Océanides,83250,La Londe-les-Maures,83071,6.255752,43.124162,"43.124162,6.255752",Hébergement
+371,"Goélia ""Le Domaine de la Pinède""",83980,Le Lavandou,83070,6.446178,43.149974,"43.149974,6.446178",Hébergement
+372,Lagrange Classic Les 3 Rivières,6210,Mandelieu-la-Napoule,6079,6.939969,43.552967,"43.552967,6.939969",Hébergement
+373,Le Flourou,5220,Le Monêtier-les-Bains,5079,6.509167,44.974445,"44.974445,6.509167",Hébergement
+374,Résidence Citadines Croisette Cannes,6400,Cannes,6029,7.016865,43.559341,"43.559341,7.016865",Hébergement
+375,Résidence Pierre et Vacances Premium Julia Augusta ****,6190,Roquebrune-Cap-Martin,6104,,,"nan,nan",Hébergement
+376,Gîte des Guibertes,5220,Le Monêtier-les-Bains,5079,6.529563,44.965958,"44.965958,6.529563",Hébergement
+377,La Grande Bastide - Vacances Passion,83980,Le Lavandou,83070,6.355287,43.133228,"43.133228,6.355287",Hébergement
+378,Résidence Soleil Vacances,83310,Grimaud,83068,6.581099,43.2829,"43.2829,6.581099",Hébergement
+379,Les Pins Penchés,8390,Le Lavandou,83070,6.381068,43.140826,"43.140826,6.381068",Hébergement
+380,L'Oustal Del Mar,83980,Le Lavandou,83070,6.364144,43.132134,"43.132134,6.364144",Hébergement
+381,Domaine d'Aiguebelle - USSIM,83980,Le Lavandou,83070,6.399642,43.14831,"43.14831,6.399642",Hébergement
+382,Les Écrins d'Azur,5340,Vallouise-Pelvoux,5101,6.488586,44.862561,"44.862561,6.488586",Hébergement
+383,Chalet Le Moulin,5260,Ancelle,5004,6.206405,44.623786,"44.623786,6.206405",Hébergement
+384,Gîte d'étape et de séjour de la Colle Saint Michel,4170,Thorame-Haute,4219,6.593016,44.047028,"44.047028,6.593016",Hébergement
+385,Le Rocher Rond,5250,Le Dévoluy,5139,5.86413,44.691941,"44.691941,5.86413",Hébergement
+386,Gîte rural de La Tour,5140,Saint-Pierre-d'Argençon,5154,5.698271,44.519704,"44.519704,5.698271",Hébergement
+387,Gîte des Naïsses,4100,Manosque,4112,5.805917,43.820141,"43.820141,5.805917",Hébergement
+388,Château d'Agecroft,6210,Mandelieu-la-Napoule,6079,6.939377,43.519339,"43.519339,6.939377",Hébergement
+389,Les Auches,5250,Le Dévoluy,5139,5.948412,44.683185,"44.683185,5.948412",Hébergement
+390,Centre d'Oxygénation Cippa,5100,Briançon,5023,6.62746,44.887575,"44.887575,6.62746",Hébergement
+391,Gîte d'étape Le Mas du Figuier,4200,Bevons,4027,5.879,44.183612,"44.183612,5.879",Hébergement
+392,Centre d'Oxygénation,5000,Gap,5061,6.084108,44.621326,"44.621326,6.084108",Hébergement
+393,Maeva Palais de La Marine,6230,Villefranche-sur-Mer,6159,7.312827,43.704843,"43.704843,7.312827",Hébergement
+394,Belambra Club - Domaine de Mousquety,84800,L'Isle-sur-la-Sorgue,84054,5.101481,43.90484,"43.90484,5.101481",Hébergement
+395,Gîte d'étape Pilpoil,84390,Sault,84123,5.407866,44.09121,"44.09121,5.407866",Hébergement
+396,Villages Clubs du Soleil - le Reverdit,83120,Plan-de-la-Tour,83094,6.546552,43.334417,"43.334417,6.546552",Hébergement
+397,Résidence de la Réserve,6310,Beaulieu-sur-Mer,6011,7.33442,43.705934,"43.705934,7.33442",Hébergement
+398,Refuge de Vallonpierre,5800,La Chapelle-en-Valgaudemar,5064,6.289191,44.798485,"44.798485,6.289191",Hébergement
+399,Gîte de Saint Disdier,5250,Le Dévoluy,5139,5.895486,44.735229,"44.735229,5.895486",Hébergement
+400,Maison Forestière ONF d'Agnielles,5140,Aspres-sur-Buëch,5010,5.785944,44.585242,"44.585242,5.785944",Hébergement
+401,Résidence Plein Soleil,83400,Hyères,83069,6.145098,43.041431,"43.041431,6.145098",Hébergement
+402,Les Hauts de Préclaux,5200,Les Orres,5098,6.55371,44.485025,"44.485025,6.55371",Hébergement
+403,Refuge de la Cougourde,6450,Saint-Martin-Vésubie,6127,7.330805,44.126327,"44.126327,7.330805",Hébergement
+404,Le Relais des Baronnies,5150,Montjay,5086,5.615298,44.37583,"44.37583,5.615298",Hébergement
+405,Mon Repos,5400,Montmaur,5087,5.882492,44.571791,"44.571791,5.882492",Hébergement
+406,Gîte d’étape La Ribière,4200,Saint-Vincent-sur-Jabron,4199,5.743047,44.16976,"44.16976,5.743047",Hébergement
+407,Pierre et Vacances Tourisme France,6230,Villefranche-sur-Mer,6159,7.322711,43.703312,"43.703312,7.322711",Hébergement
+408,Gîte d'étape de la Tour,5140,Saint-Pierre-d'Argençon,5154,5.698271,44.519704,"44.519704,5.698271",Hébergement
+409,Résidence Cap Azur,83430,Saint-Mandrier-sur-Mer,83153,5.90791,43.072078,"43.072078,5.90791",Hébergement
+410,Villages Clubs du Soleil : Le Richelme,4000,Digne-les-Bains,4070,6.266071,44.079621,"44.079621,6.266071",Hébergement
+411,Gîte Auberge Chez Baptiste,5320,La Grave,5063,6.28555,45.053768,"45.053768,6.28555",Hébergement
+412,Gîte d'étape et de séjour l'Agnelun,4330,Barrême,4022,6.368878,43.953515,"43.953515,6.368878",Hébergement
+413,Auberge Les terres de Saint Hilaire,83470,Ollières,83089,5.808448,43.497395,"43.497395,5.808448",Hébergement
+414,Domitys La Palombine,83700,Saint-Raphaël,83118,6.77214,43.425584,"43.425584,6.77214",Hébergement
+415,Le Pas du loup,5800,Le Glaizil,5062,5.981701,44.753501,"44.753501,5.981701",Hébergement
+416,Domaine Terres Clôt du Jay,4250,Clamensane,4057,6.079784,44.325706,"44.325706,6.079784",Hébergement
+417,Résidence sous Le Soleil,83380,Roquebrune sur Argens - Les Issambres,83999,6.69881,43.343636,"43.343636,6.69881",Hébergement
+418,Auberge de jeunesse FJT,5000,Gap,5061,6.081148,44.557111,"44.557111,6.081148",Hébergement
+419,Auberge Gaillard,5500,La Motte-en-Champsaur,5090,6.12263,44.747438,"44.747438,6.12263",Hébergement
+420,Auberge L'Arpelin,5100,Cervières,5027,6.727218,44.855147,"44.855147,6.727218",Hébergement
+421,Gîte de Roncharel,4240,Annot,4008,6.635576,43.972885,"43.972885,6.635576",Hébergement
+422,Auberge des Gondoins,5260,Champoléon,5032,6.2496,44.729186,"44.729186,6.2496",Hébergement
+423,Pierre Et Vacances Les Terrasses,83380,Roquebrune sur Argens - Les Issambres,83999,6.680103,43.371078,"43.371078,6.680103",Hébergement
+424,Auberge de jeunesse Entre Guil et Mets,5600,Guillestre,5065,6.64022,44.659329,"44.659329,6.64022",Hébergement
+425,Refuge du lac de Rabuons,6660,Saint-Étienne-de-Tinée,6120,6.978122,44.26846,"44.26846,6.978122",Hébergement
+426,Belambra Club Le Roc Blanc,5170,Orcières,5096,6.324391,44.698006,"44.698006,6.324391",Hébergement
+427,Gîte Collectif Le Dahut,5320,La Grave,5063,6.315609,45.058251,"45.058251,6.315609",Hébergement
+428,Appart'City Cannes Mandelieu,6210,Mandelieu-la-Napoule,6079,6.929785,43.522629,"43.522629,6.929785",Hébergement
+429,Village Vacances Azur et Neige***,4140,Montclar,4126,6.333492,44.404918,"44.404918,6.333492",Hébergement
+430,Les Locations des Domaines de Saint Endréol,83920,La Motte,83085,6.585317,43.495032,"43.495032,6.585317",Hébergement
+431,Maison de Santé Les Acacias,5107,Briançon,5023,6.631039,44.909418,"44.909418,6.631039",Hébergement
+432,La Maison Rose -  Chez Villa Castellane,4800,Gréoux-les-Bains,4094,5.890216,43.758192,"43.758192,5.890216",Hébergement
+433,GITE LA ROUGUIERE,6450,Saint-Martin-Vésubie,6127,7.256143,44.069144,"44.069144,7.256143",Hébergement
+434,Centre Médical Montjoy,5100,Briançon,5023,6.629279,44.911059,"44.911059,6.629279",Hébergement
+435,Villa Lormarin,83350,Ramatuelle,83101,6.639667,43.210971,"43.210971,6.639667",Hébergement
+436,Résidence Les Sellettes,83350,Ramatuelle,83101,6.645903,43.220776,"43.220776,6.645903",Hébergement
+437,Résidence L'Anoli,83350,Ramatuelle,83101,6.655954,43.228507,"43.228507,6.655954",Hébergement
+438,Les Maisons du Sud,83350,Ramatuelle,83101,6.636399,43.254211,"43.254211,6.636399",Hébergement
+439,Ugecam PACA-Corse Rhône-Azur,5100,Briançon,5023,6.626823,44.913157,"44.913157,6.626823",Hébergement
+440,Village Vacances Léo Lagrange Touristra,83350,Ramatuelle,83101,6.657581,43.210677,"43.210677,6.657581",Hébergement
+441,Yelloh Village Les Tournels,83350,Ramatuelle,83101,6.650557,43.204644,"43.204644,6.650557",Hébergement
+442,Village Vacances Léo Lagrange / Touristra,83350,Ramatuelle,83101,6.657581,43.210677,"43.210677,6.657581",Hébergement
+443,Quen' Chan't Le Guil,5470,Aiguilles,5003,6.869483,44.78182,"44.78182,6.869483",Hébergement
+444,Gîte d'étape et de séjour des Robines,4330,Tartonne,4214,6.389007,44.066727,"44.066727,6.389007",Hébergement
+445,L’Ecrin des neiges,5560,Vars,5177,6.686168,44.567786,"44.567786,6.686168",Hébergement
+446,Pic de Chabrières,5560,Vars,5177,6.685352,44.569039,"44.569039,6.685352",Hébergement
+447,Fondation Edith Seltzer Centre Médical Chant'Ours,5107,Briançon,5023,6.619574,44.918805,"44.918805,6.619574",Hébergement
+448,Jamivoï,5800,La Chapelle-en-Valgaudemar,5064,6.197951,44.819266,"44.819266,6.197951",Hébergement
+449,Les Jalabres - Actions vacances,5170,Orcières,5096,6.326274,44.684075,"44.684075,6.326274",Hébergement
+450,LE CARRE DU MERCANTOUR,6470,Châteauneuf-d'Entraunes,6040,6.792236,44.159782,"44.159782,6.792236",Hébergement
+451,SSR Pédiatrique la Guisane,5100,Villar-Saint-Pancrace,5183,6.639176,44.879061,"44.879061,6.639176",Hébergement
+452,Les Villages Clubs Du Soleil,5560,Vars,5177,6.685138,44.566563,"44.566563,6.685138",Hébergement
+453,Le champ d'Eysson Aparthôtel,83440,Montauroux,83081,6.770309,43.605776,"43.605776,6.770309",Hébergement
+454,Maison Médicale Les Jeunes Pousses,5100,Briançon,5023,6.638844,44.898157,"44.898157,6.638844",Hébergement
+455,Gîte de l'Yvraie,5250,Le Dévoluy,5139,5.848384,44.639295,"44.639295,5.848384",Hébergement
+456,Résidence Suite Home Apt-Luberon,84400,Apt,84003,5.386113,43.879516,"43.879516,5.386113",Hébergement
+457,Eden Azur,6220,Vallauris Golfe - Juan,6155,7.083628,43.5737,"43.5737,7.083628",Hébergement
+458,Centre de Romainville,5340,Vallouise-Pelvoux,5101,6.486663,44.876922,"44.876922,6.486663",Hébergement
+459,GITE TONIC,6850,Saint-Auban,6116,6.736573,43.843608,"43.843608,6.736573",Hébergement
+460,Chalet le refuge,4120,La Palud-sur-Verdon,4144,6.325875,43.836961,"43.836961,6.325875",Hébergement
+461,Gîte du Mont Garde,5700,Trescléoux,5172,5.716796,44.351657,"44.351657,5.716796",Hébergement
+462,Gîte refuge La Pousterle,5120,L'Argentière-la-Bessée,5006,6.514447,44.800876,"44.800876,6.514447",Hébergement
+463,La Vigneraie,83350,Ramatuelle,83101,6.660457,43.241315,"43.241315,6.660457",Hébergement
+464,Gîte d'étape et de séjour de la ferme de Villauret,5400,Saint-Auban-d'Oze,5131,5.852706,44.473735,"44.473735,5.852706",Hébergement
+465,La Rouvenède,83350,Ramatuelle,83101,6.617643,43.213045,"43.213045,6.617643",Hébergement
+466,Gîte d'étape L'Auberge Ensoleillée,5320,La Grave,5063,6.296303,45.049831,"45.049831,6.296303",Hébergement
+467,La Ferme de l'Empereur,83350,Ramatuelle,83101,6.643717,43.212843,"43.212843,6.643717",Hébergement
+468,Pra Sainte Marie,5560,Vars,5177,6.689429,44.596151,"44.596151,6.689429",Hébergement
+469,La Bastide des Tamaris,83350,Ramatuelle,83101,6.657907,43.238667,"43.238667,6.657907",Hébergement
+470,Les Jardins de La Côte D'azur - Club Hôtel Maeva,83430,Saint-Mandrier-sur-Mer,83153,5.920654,43.08194,"43.08194,5.920654",Hébergement
+471,Touristra la Manne,83230,Bormes-les-Mimosas,83019,6.334753,43.127041,"43.127041,6.334753",Hébergement
+472,Gîte de Terre Rouge,5100,Cervières,5027,6.688377,44.874773,"44.874773,6.688377",Hébergement
+473,Gîte des Gorges de la Méouge,5300,Barret-sur-Méouge,5014,5.73791,44.261736,"44.261736,5.73791",Hébergement
+474,Le Cabanon,83350,Ramatuelle,83101,6.629759,43.211902,"43.211902,6.629759",Hébergement
+475,Gîte des 3 Cols,5160,Réallon,5114,6.33399,44.616202,"44.616202,6.33399",Hébergement
+476,L'Auberge de l'Oumède,83350,Ramatuelle,83101,6.639595,43.218469,"43.218469,6.639595",Hébergement
+477,Les Eucalyptus,83350,Ramatuelle,83101,6.657003,43.242587,"43.242587,6.657003",Hébergement
+478,Leï Souco,83350,Ramatuelle,83101,6.647716,43.213299,"43.213299,6.647716",Hébergement
+479,Auberge La Gravière,5170,Orcières,5096,6.31889,44.680418,"44.680418,6.31889",Hébergement
+480,Centre de Vacances Les Clarines,4140,Montclar,4126,6.350016,44.411318,"44.411318,6.350016",Hébergement
+481,Gîte des Guibertes,5220,Le Monêtier-les-Bains,5079,6.528883,44.965284,"44.965284,6.528883",Hébergement
+482,Gîte de la Draye,5200,Crots,5045,6.474517,44.4922,"44.4922,6.474517",Hébergement
+483,Domaine Clairefontaine,4460,Saint-Martin-lès-Seyne,4191,6.27636,44.382142,"44.382142,6.27636",Hébergement
+484,"Résidence Lagrange ""Villa Barbara""",83240,Cavalaire-sur-Mer,83036,6.524688,43.17625,"43.17625,6.524688",Hébergement
+485,La Blanche,5340,Vallouise-Pelvoux,5101,6.491092,44.861733,"44.861733,6.491092",Hébergement
+486,Gîte d'étape de Moissière,5400,Rabou,5112,6.000804,44.597002,"44.597002,6.000804",Hébergement
+487,Gîte d'étape de Thoard,4380,Thoard,4217,6.149186,44.150084,"44.150084,6.149186",Hébergement
+488,Gîte communal de Laye,5500,Laye,5072,6.073289,44.642819,"44.642819,6.073289",Hébergement
+489,Les Grands Pins,4800,Gréoux-les-Bains,4094,5.894942,43.754906,"43.754906,5.894942",Hébergement
+490,Gîte Communal de la Piarre,5700,La Piarre,5102,5.656048,44.475997,"44.475997,5.656048",Hébergement
+491,Gîte étape & groupe chévrerie Céüse,5130,Sigoyer,5168,5.943475,44.486066,"44.486066,5.943475",Hébergement
+492,Gîte de Chauffarel,5170,Orcières,5096,6.294608,44.681928,"44.681928,6.294608",Hébergement
+493,Gîte d'étape Bijou,5170,Orcières,5096,6.370093,44.693439,"44.693439,6.370093",Hébergement
+494,Résidence - Hôtel de la Mer,83420,La Croix-Valmer,83048,6.556524,43.19347,"43.19347,6.556524",Hébergement
+495,Gite Chalet AlpeLune,5290,Puy-Saint-Vincent,5110,6.500506,44.821155,"44.821155,6.500506",Hébergement
+496,Le Villard,5600,Guillestre,5065,6.625836,44.658117,"44.658117,6.625836",Hébergement
+497,Maison forestière ONF de Chaudun,5000,Gap,5061,6.020832,44.643067,"44.643067,6.020832",Hébergement
+498,Gîte collectif Chalet Saint Jean,5320,La Grave,5063,6.286138,45.053901,"45.053901,6.286138",Hébergement
+499,L'albane,5560,Vars,5177,6.679992,44.572662,"44.572662,6.679992",Hébergement
+500,Club Med Serre Chevalier,5240,La Salle les Alpes,5161,6.550426,44.946242,"44.946242,6.550426",Hébergement
+501,Domaine de Château Laval - Vacances Bleues,4800,Gréoux-les-Bains,4094,5.906788,43.778129,"43.778129,5.906788",Hébergement
+502,Les Damias,5300,Éourres,5047,5.720702,44.215586,"44.215586,5.720702",Hébergement
+503,Gîte Vertige Sport,5700,Orpierre,5097,5.692377,44.313432,"44.313432,5.692377",Hébergement
+504,Moulin de Saint-André - Gite de Groupe,83560,Vinon-sur-Verdon,83150,5.813167,43.728518,"43.728518,5.813167",Hébergement
+505,Maison Forestière ONF de Rabioux,5250,Le Dévoluy,5139,5.863415,44.616312,"44.616312,5.863415",Hébergement
+506,Edelweiss,5460,Abriès,5001,6.927759,44.795203,"44.795203,6.927759",Hébergement
+507,Le Kaly,5260,Saint-Michel-de-Chaillol,5153,6.164076,44.689327,"44.689327,6.164076",Hébergement
+508,Résidence Les Cordeliers,84000,Avignon,84007,4.811513,43.94399,"43.94399,4.811513",Hébergement
+509,Appart' hôtel Campus Del Sol - Esplanade,84000,Avignon,84007,4.888388,43.91513,"43.91513,4.888388",Hébergement
+510,La Maison de Gaudissard,5350,Molines-en-Queyras,5077,6.83942,44.73667,"44.73667,6.83942",Hébergement
+511,Le Riou Vert,5350,Château-Ville-Vieille,5038,6.74954,44.70847,"44.70847,6.74954",Hébergement
+512,Le Grand Rochebrune,5350,Château-Ville-Vieille,5038,6.76924,44.77532,"44.77532,6.76924",Hébergement
+513,La Fruitière,5350,Arvieux,5007,6.7574,44.74509,"44.74509,6.7574",Hébergement
+514,Les Gabelous,5350,Saint-Véran,5157,6.869792,44.699248,"44.699248,6.869792",Hébergement
+515,L'Estoilies,5350,Saint-Véran,5157,6.86216,44.69903,"44.69903,6.86216",Hébergement
+516,Les Arolles,5350,Molines-en-Queyras,5077,6.83581,44.73345,"44.73345,6.83581",Hébergement
+517,Chalet Alpage Tangente,5350,Molines-en-Queyras,5077,6.885895,44.722961,"44.722961,6.885895",Hébergement
+518,Abriès le Villard,5460,Abriès,5001,6.92639,44.79489,"44.79489,6.92639",Hébergement
+519,Le Matefaim,5600,Ceillac,5026,6.776883,44.666259,"44.666259,6.776883",Hébergement
+520,7 Degrés Est,5460,Ristolas,5120,6.99374,44.75991,"44.75991,6.99374",Hébergement
+521,Cabane Marie-Louise,4370,Villars-Colmars,4240,6.569406,44.20785,"44.20785,6.569406",Hébergement
+522,Gîte de La Monta,5460,Ristolas,5120,6.98405,44.76637,"44.76637,6.98405",Hébergement
+523,Chalet Alpin  de l'Eychauda,5340,Vallouise-Pelvoux,5101,6.49176,44.860553,"44.860553,6.49176",Hébergement
+524,Les Amandiers,4800,Gréoux-les-Bains,4094,5.897499,43.759269,"43.759269,5.897499",Hébergement
+525,Les Bons Enfants,5350,Arvieux,5007,6.73011,44.79284,"44.79284,6.73011",Hébergement
+526,Le Chalet des Routiers,5350,Saint-Véran,5157,6.86842,44.69893,"44.69893,6.86842",Hébergement
+527,Chalet Alpin l'Eychauda,5340,Vallouise-Pelvoux,5101,6.491714,44.860748,"44.860748,6.491714",Hébergement
+528,Gîte Le Château,4000,La Robine-sur-Galabre,4167,6.216964,44.172803,"44.172803,6.216964",Hébergement
+529,Les Baladins,5600,Ceillac,5026,6.77554,44.66622,"44.66622,6.77554",Hébergement
+530,La Baïta du Loup,5350,Saint-Véran,5157,6.849499,44.711409,"44.711409,6.849499",Hébergement
+531,Les Astragales,5350,Château-Ville-Vieille,5038,6.82241,44.76101,"44.76101,6.82241",Hébergement
+532,Refuge Le Pas du Loup,5120,Saint-Martin-de-Queyrières,5151,6.56428,44.830383,"44.830383,6.56428",Hébergement
+533,Gîte La Ferme de la Tour,5100,Villar-Saint-Pancrace,5183,6.631504,44.876986,"44.876986,6.631504",Hébergement
+534,Gîtes La Maison Verte,5200,Baratier,5012,6.483485,44.536653,"44.536653,6.483485",Hébergement
+535,Gîte La Découverte,5100,Névache,5093,6.61252,45.018579,"45.018579,6.61252",Hébergement
+536,Gîte d'étape et de séjour de Gigondas les Dentelles de Montmirail,84190,Gigondas,84049,5.004675,44.165436,"44.165436,5.004675",Hébergement
+537,Gîte Forestier des Dourbes,4000,Digne-les-Bains,4070,6.309779,44.065801,"44.065801,6.309779",Hébergement
+538,Le Mistral,4800,Gréoux-les-Bains,4094,5.897499,43.759269,"43.759269,5.897499",Hébergement
+539,Centre de Vacances de la Ville d'Aubagne,4340,Ubaye Serre-Ponçon,4033,6.374505,44.444375,"44.444375,6.374505",Hébergement
+540,Chalet Le Cassu,5460,Abriès,5001,6.94423,44.81936,"44.81936,6.94423",Hébergement
+541,Grand gîte Matacharre (ONF),5400,La Roche-des-Arnauds,5123,5.934673,44.585794,"44.585794,5.934673",Hébergement
+542,Chez Marius,5350,Arvieux,5007,6.73199,44.7914,"44.7914,6.73199",Hébergement
+543,La résidence du Bailli,83820,Rayol-Canadel-sur-Mer,83152,6.478293,43.156847,"43.156847,6.478293",Hébergement
+544,Maison forestière ONF des Sauvas,5400,Montmaur,5087,5.903494,44.600435,"44.600435,5.903494",Hébergement
+545,Gîte - Hotel Le Rebanchon,5220,Le Monêtier-les-Bains,5079,6.482337,44.986723,"44.986723,6.482337",Hébergement
+546,Gîte du Domaine de la Clappe,4000,Digne-les-Bains,4070,6.30885,44.01708,"44.01708,6.30885",Hébergement
+547,Gîte d'étape Les Mélèzes,5480,Villar d'Arène,5181,6.335053,45.042959,"45.042959,6.335053",Hébergement
+548,L'Olivier,4800,Gréoux-les-Bains,4094,5.897499,43.759269,"43.759269,5.897499",Hébergement
+549,"Belambra Clubs ""Les Criques""",83400,Hyères,83069,6.16327,43.03192,"43.03192,6.16327",Hébergement
+550,Quen' Chan't Le Guil,5470,Aiguilles,5003,6.869483,44.78182,"44.78182,6.869483",Hébergement
+551,Le Ristolas,5460,Ristolas,5120,6.95676,44.77384,"44.77384,6.95676",Hébergement
+552,La Teppio,5350,Arvieux,5007,6.73421,44.78051,"44.78051,6.73421",Hébergement
+553,Chalet Viso,5350,Arvieux,5007,6.73714,44.77954,"44.77954,6.73714",Hébergement
+554,Gîte 'Les Eaux Claires',5400,Saint-Auban-d'Oze,5131,5.844426,44.49781,"44.49781,5.844426",Hébergement
+555,GOLDSTAR RESORT ET SUITES,6000,Nice,6088,7.260546,43.697729,"43.697729,7.260546",Hébergement
+556,Yak Avenir,5470,Aiguilles,5003,6.866582,44.781591,"44.781591,6.866582",Hébergement
+557,Les Drailles - Gîte d'étape,5700,Orpierre,5097,5.691889,44.313121,"44.313121,5.691889",Hébergement
+558,La Froumentière,5260,Saint-Michel-de-Chaillol,5153,6.16761,44.68148,"44.68148,6.16761",Hébergement
+559,GITE D'ETAPE VILLAGE,6660,Saint-Dalmas-le-Selvage,6119,6.89945,44.24778,"44.24778,6.89945",Hébergement
+560,Les Perce Neige,5350,Saint-Véran,5157,6.868732,44.699951,"44.699951,6.868732",Hébergement
+561,Eco-gîte de l'Aigle,5600,Ceillac,5026,6.779399,44.669951,"44.669951,6.779399",Hébergement
+562,La P'tite Auberge,5470,Aiguilles,5003,6.8703,44.78249,"44.78249,6.8703",Hébergement
+563,Les Ajourdines,5340,Vallouise-Pelvoux,5101,6.489272,44.862744,"44.862744,6.489272",Hébergement
+564,Leï Mendi,5340,Vallouise-Pelvoux,5101,6.45265,44.884381,"44.884381,6.45265",Hébergement
+565,Refuge de Nice,6450,Belvédère,6013,7.400381,44.1044,"44.1044,7.400381",Hébergement
+566,Gîte d'étape Au Vieux Guide,5320,La Grave,5063,6.306893,45.045253,"45.045253,6.306893",Hébergement
+567,Le Grand Champ,5000,Gap,5061,6.128225,44.594226,"44.594226,6.128225",Hébergement
+568,Gîte d'étape Le Rocher,5320,La Grave,5063,6.300005,45.044288,"45.044288,6.300005",Hébergement
+569,Les Yuccas 1er étage,4800,Gréoux-les-Bains,4094,5.891915,43.754309,"43.754309,5.891915",Hébergement
+570,Au Fil de l'Onde,5340,Vallouise-Pelvoux,5101,6.486667,44.841667,"44.841667,6.486667",Hébergement
+571,Résidence Le Golfe Bleu,83820,Rayol-Canadel-sur-Mer,83152,6.455094,43.156513,"43.156513,6.455094",Hébergement
+572,FOEHN (le),6420,Isola,6073,7.049847,44.186135,"44.186135,7.049847",Hébergement
+573,Club Belambra Riviera Beach Club,83400,Hyères,83069,6.1481,43.04381,"43.04381,6.1481",Hébergement
+574,Gîte Le Moulin Papillon,5120,L'Argentière-la-Bessée,5006,6.5522,44.7825,"44.7825,6.5522",Hébergement
+575,Gîte Les Charançons,5380,Châteauroux-les-Alpes,5036,6.471658,44.648706,"44.648706,6.471658",Hébergement
+576,Gîte-Auberge Le Pas de l'Âne,5480,Villar d'Arène,5181,6.36264,45.030772,"45.030772,6.36264",Hébergement
+577,Gîte Le Creux des Souches,5100,Névache,5093,6.604071,45.019299,"45.019299,6.604071",Hébergement
+578,Résidence Pierre et Vacances - Les Restanques du Golfe De Saint-Tropez,83310,Grimaud,83068,6.569072,43.286024,"43.286024,6.569072",Hébergement
+579,Résidence Les Perles de Saint - Tropez,83310,Grimaud,83068,6.583384,43.282204,"43.282204,6.583384",Hébergement
+580,Centre ANAS,83400,Hyères,83069,6.149018,43.058687,"43.058687,6.149018",Hébergement
+581,Gîte Le Faï,5400,Le Saix,5158,5.830779,44.46025,"44.46025,5.830779",Hébergement
+582,Coste-Belle,5350,Saint-Véran,5157,6.871426,44.698566,"44.698566,6.871426",Hébergement
+583,Gîte collectif Chalet du Combeynot,5480,Villar d'Arène,5181,6.363031,45.031773,"45.031773,6.363031",Hébergement
+584,Centre de vacances IGESA,5290,Puy-Saint-Vincent,5110,6.484662,44.819948,"44.819948,6.484662",Hébergement
+585,Gîte d'Etape du Chateau des Sieyes,4000,Digne-les-Bains,4070,6.216264,44.084041,"44.084041,6.216264",Hébergement
+586,Résidence Odalys - La Palmeraie,83310,Grimaud,83068,6.587208,43.282199,"43.282199,6.587208",Hébergement
+587,Le Suffren,83310,Grimaud,83068,6.580621,43.274035,"43.274035,6.580621",Hébergement
+588,Les Passagers du gîte,5100,Val-des-Prés,5174,6.67448,44.916767,"44.916767,6.67448",Hébergement
+589,Gîte de l'ASPA,84390,Saint-Christol,84107,5.491773,44.02877,"44.02877,5.491773",Hébergement
+590,Gîte d'étape Le Camp de Base,5320,La Grave,5063,6.284051,45.043539,"45.043539,6.284051",Hébergement
+591,Résidence Les Blanches Provençales***,4140,Selonnet,4203,6.294751,44.34702,"44.34702,6.294751",Hébergement
+592,Village club Les 4 saisons,5330,Saint-Chaffrey,5133,6.601367,44.928744,"44.928744,6.601367",Hébergement
+593,La Rivièra,5260,Ancelle,5004,6.206088,44.623121,"44.623121,6.206088",Hébergement
+594,Village Vacances Lou Bastidou,83390,Cuers,83049,6.072904,43.251287,"43.251287,6.072904",Hébergement
+595,Arts et Vie,5220,Le Monêtier-les-Bains,5079,6.500473,44.972024,"44.972024,6.500473",Hébergement
+596,Gîte de la Baume Aux délices du Verdon,4120,Castellane,4039,6.500632,43.891954,"43.891954,6.500632",Hébergement
+597,Chalet Alpage Tangente,5350,Molines-en-Queyras,5077,6.886696,44.722432,"44.722432,6.886696",Hébergement
+598,Gîte Le Bois De Barracan,5100,Villar-Saint-Pancrace,5183,6.624048,44.870546,"44.870546,6.624048",Hébergement
+599,Chalets de l'Estelle,5600,Ceillac,5026,6.777934,44.668066,"44.668066,6.777934",Hébergement
+600,Résidence Pierre et Vacances - Les Parcs de Grimaud,83310,Grimaud,83068,6.581133,43.282797,"43.282797,6.581133",Hébergement
+601,Gîte de chasse de Matacharre,5400,La Roche-des-Arnauds,5123,5.934673,44.585794,"44.585794,5.934673",Hébergement
+602,Gîtes de Baume Rousse,5300,Val Buëch-Méouge,5118,5.811939,44.272369,"44.272369,5.811939",Hébergement
+603,L'Aventurine,4800,Gréoux-les-Bains,4094,5.886852,43.763482,"43.763482,5.886852",Hébergement
+604,Pierre & Vacances Les jardins ombragés ***,6210,Mandelieu-la-Napoule,6079,6.944375,43.541439,"43.541439,6.944375",Hébergement
+605,Azureva Fréjus,83608,Fréjus,83061,6.727917,43.459522,"43.459522,6.727917",Hébergement
+606,Les Cèdres,6130,Grasse,6069,6.932697,43.661568,"43.661568,6.932697",Hébergement
+607,Refuge de la Madone de Fenestre,6450,Saint-Martin-Vésubie,6127,7.356322,44.095773,"44.095773,7.356322",Hébergement
+608,Résidence Les Lauriers Roses,83820,Rayol-Canadel-sur-Mer,83152,6.449414,43.154999,"43.154999,6.449414",Hébergement
+609,Le Mas du Sillot,84600,Grillon,84053,4.945822,44.411628,"44.411628,4.945822",Hébergement
+610,Gîte de séjour écologique L'Asphodèle,5130,Venterol,4234,6.099724,44.44464,"44.44464,6.099724",Hébergement
+611,Gîte ONF : Annexe des Sauvas,5400,Montmaur,5087,5.902916,44.600117,"44.600117,5.902916",Hébergement
+612,Mona Lisa,5600,Risoul,5119,6.631711,44.622246,"44.622246,6.631711",Hébergement
+613,Chalet Le Génépy,5350,Molines-en-Queyras,5077,6.875889,44.727242,"44.727242,6.875889",Hébergement
+614,Ternelia le vent du large - Domaine de Villepey,83600,Fréjus,83061,6.70917,43.405639,"43.405639,6.70917",Hébergement
+615,Résidence Les Balcons du Grand-Puy,4140,Seyne,4205,6.392109,44.334284,"44.334284,6.392109",Hébergement
+616,Les Résidences du Colombier,83600,Fréjus,83061,6.726479,43.447135,"43.447135,6.726479",Hébergement
+617,Mas Aurélia,83600,Fréjus,83061,6.757033,43.452128,"43.452128,6.757033",Hébergement
+618,Résidence de Vacances Escapade,84110,Vaison-la-Romaine,84137,5.08546,44.236137,"44.236137,5.08546",Hébergement
+619,Village Club Vacanciel Val d'Esquieres,83380,Roquebrune sur Argens - Les Issambres,83999,6.682885,43.345962,"43.345962,6.682885",Hébergement
+620,Village de Vacances Lou Riou,83990,Saint-Tropez,83119,6.676161,43.263338,"43.263338,6.676161",Hébergement
+621,"Résidence Lagrange ""Domaine de Fayence""",83440,Fayence,83055,6.695928,43.6013,"43.6013,6.695928",Hébergement
+622,Gîte de groupe le Jas de Péguier,4200,Châteauneuf-Val-Saint-Donat,4053,5.949806,44.089975,"44.089975,5.949806",Hébergement
+623,Gîte d'étape La Fenière,4200,Peipin,4145,5.967606,44.138004,"44.138004,5.967606",Hébergement
+624,Maeva Amandine et Eden Parc,83990,Saint-Tropez,83119,6.635173,43.268025,"43.268025,6.635173",Hébergement
+625,La Villa,5260,Saint-Jean-Saint-Nicolas,5145,6.209552,44.667623,"44.667623,6.209552",Hébergement
+626,Chalet Alp'Azur,5350,Arvieux,5007,6.736355,44.779679,"44.779679,6.736355",Hébergement
+627,V.T.F Le Castelet,83520,Roquebrune-sur-Argens,83107,6.700498,43.411208,"43.411208,6.700498",Hébergement
+628,Les Balcons de Combe Rousset,5470,Aiguilles,5003,6.863621,44.779975,"44.779975,6.863621",Hébergement
+629,La Lobio,5350,Molines-en-Queyras,5077,6.87558,44.726555,"44.726555,6.87558",Hébergement
+630,La Pinède,83400,Hyères,83069,6.438056,43.017997,"43.017997,6.438056",Hébergement
+631,Gîte d'étape et de séjour du Randonneur,4330,Senez,4204,6.407473,43.913345,"43.913345,6.407473",Hébergement
+632,Joie et soleil,5800,Chauffayer,5039,6.012934,44.743451,"44.743451,6.012934",Hébergement
+633,La Résidence du Temple,5100,Briançon,5023,6.643024,44.900058,"44.900058,6.643024",Hébergement
+634,UCPA -Hyères,83400,Hyères,83069,6.149634,43.047321,"43.047321,6.149634",Hébergement
+635,Chalet Refuge Cézanne,5340,Ailefroide,5903,6.415163,44.918559,"44.918559,6.415163",Hébergement
+636,Gîte de plongée du Gapeau,83400,Hyères,83069,6.191739,43.111308,"43.111308,6.191739",Hébergement
+637,Les compagnons des jours heureux,5350,Saint-Véran,5157,6.855659,44.704122,"44.704122,6.855659",Hébergement
+638,Auberge sainte Marie Madeleine,6430,Tende,6163,7.506243,44.097734,"44.097734,7.506243",Hébergement
+639,La Renardière - Archipel Accueil International,5330,Saint-Chaffrey,5133,6.589302,44.932228,"44.932228,6.589302",Hébergement
+640,Gîte d'étape de Lafare,84190,Lafare,84059,5.051587,44.14681,"44.14681,5.051587",Hébergement
+641,L'Orée des Pistes,5250,Superdévoluy,5901,5.931705,44.67304,"44.67304,5.931705",Hébergement
+642,APART'HOTEL AJOUPA,6000,Nice,6088,7.268255,43.697721,"43.697721,7.268255",Hébergement
+643,Village de gîtes Le Pré Martin,4240,Annot,4008,6.665209,43.962152,"43.962152,6.665209",Hébergement
+644,Le Val Saint Paul - LPM,5200,Baratier,5012,6.495832,44.540615,"44.540615,6.495832",Hébergement
+645,Gîte de groupe des Sauvas (ONF),5400,Montmaur,5087,5.902916,44.600117,"44.600117,5.902916",Hébergement
+646,Association ECOLOC,5300,Barret-sur-Méouge,5014,5.738655,44.280633,"44.280633,5.738655",Hébergement
+647,Gite d'étape et de séjour Auberge l'Oustalet,4170,Thorame-Haute,4219,6.594542,44.048418,"44.048418,6.594542",Hébergement
+648,L'Aventure,5500,Saint-Bonnet-en-Champsaur,5132,6.066463,44.702458,"44.702458,6.066463",Hébergement
+649,L'Ancolie,5260,Saint-Jean-Saint-Nicolas,5145,6.229444,44.668333,"44.668333,6.229444",Hébergement
+650,L'Aiguillette du Lauzet,5220,Le Monêtier-les-Bains,5079,6.463611,45.015,"45.015,6.463611",Hébergement
+651,Court'Inn Aqua,84000,Avignon,84007,4.779416,43.93176,"43.93176,4.779416",Hébergement
+652,Zenitude Mimozas Resort,6210,Mandelieu-la-Napoule,6079,6.947061,43.539853,"43.539853,6.947061",Hébergement
+653,Résidence Les Peupliers,84870,Loriol-du-Comtat,84067,4.986263,44.078563,"44.078563,4.986263",Hébergement
+654,L'Agapanthe,5400,Manteyer,5075,5.953426,44.545704,"44.545704,5.953426",Hébergement
+655,Loupitchoun84,84380,Mazan,84072,5.13,44.058202,"44.058202,5.13",Hébergement
+656,La Grange de Brudour,5800,Aspres-les-Corps,5009,6.005454,44.799897,"44.799897,6.005454",Hébergement
+657,Résidence Court'inn Suites,84000,Avignon,84007,4.780955,43.935266,"43.935266,4.780955",Hébergement
+658,ODALYS LES HAUTS DE LA PRINCIPAUTE,6240,Beausoleil,6012,7.426681,43.742663,"43.742663,7.426681",Hébergement
+659,Résidence Apart'Hôtel Sainte-Marthe,84000,Avignon,84007,4.820158,43.949825,"43.949825,4.820158",Hébergement
+660,La Bastide de l'Estré,83630,Aups,83007,6.235509,43.64392,"43.64392,6.235509",Hébergement
+661,Résidence - Appart Hôtel la Salamandre,84000,Avignon,84007,4.822336,43.942458,"43.942458,4.822336",Hébergement
+662,La Couronne de l'Ours,5170,Orcières,5096,6.325829,44.684018,"44.684018,6.325829",Hébergement
+663,Refuge de Pré la Chaumette,5260,Champoléon,5032,6.327563,44.765328,"44.765328,6.327563",Hébergement
+664,Les Rivages de la Coudoulière,83140,Six-Fours-les-Plages,83129,5.81382,43.096783,"43.096783,5.81382",Hébergement
+665,La Charrière,5800,Villar-Loubière,5182,6.145278,44.826389,"44.826389,6.145278",Hébergement
+666,Centre d'accueil Auberge Bagatelle,84000,Avignon,84007,4.7992,43.9522,"43.9522,4.7992",Hébergement
+667,Hôtel Club Vacanciel Bagatelle,83520,Roquebrune-sur-Argens,83107,6.643176,43.439473,"43.439473,6.643176",Hébergement
+668,Refuge de la Valmasque,6430,Tende,6163,7.446678,44.10815,"44.10815,7.446678",Hébergement
+669,Le Chamois,5260,Saint-Michel-de-Chaillol,5153,6.171944,44.678333,"44.678333,6.171944",Hébergement
+670,Le Parc des Airelles,5200,Les Orres,5098,6.553571,44.484326,"44.484326,6.553571",Hébergement
+671,Résidence la Marina,83110,Sanary-sur-Mer,83123,5.779783,43.140857,"43.140857,5.779783",Hébergement
+672,Le Casset,5800,La Chapelle-en-Valgaudemar,5064,6.21919,44.821158,"44.821158,6.21919",Hébergement
+673,Les Rives du Drac,5500,Saint-Bonnet-en-Champsaur,5132,6.085891,44.669041,"44.669041,6.085891",Hébergement
+674,Les Paris,5800,Saint-Jacques-en-Valgaudemar,5144,6.030459,44.765717,"44.765717,6.030459",Hébergement
+675,Refuge des Souffles,5800,Villar-Loubière,5182,6.146549,44.844652,"44.844652,6.146549",Hébergement
+676,CGH Résidences & Spas Le Napoléon,5100,Montgenèvre,5085,6.724937,44.931449,"44.931449,6.724937",Hébergement
+677,Résidence - Adagio Access Avignon,84000,Avignon,84007,4.785595,43.926344,"43.926344,4.785595",Hébergement
+678,Résidence Lagrange Le Hameau du Rocher Blanc,5330,Saint-Chaffrey,5133,6.585875,44.934729,"44.934729,6.585875",Hébergement
+679,Les Chalets de la Lauzière,5250,La Joue du Loup,5902,5.888146,44.686467,"44.686467,5.888146",Hébergement
+680,Les Mélèzes,5800,La Chapelle-en-Valgaudemar,5064,6.192874,44.818086,"44.818086,6.192874",Hébergement
+681,Chez Franz,4260,Le Seignus,4901,6.616576,44.240577,"44.240577,6.616576",Hébergement
+682,Résidence Hôtelière Pré des Ors & Spa Piscine,5220,Le Monêtier-les-Bains,5079,6.507812,44.975864,"44.975864,6.507812",Hébergement
+683,Résidence La Meije Blanche,5480,Villar d'Arène,5181,6.338563,45.042146,"45.042146,6.338563",Hébergement
+684,Le Passe Montagne,5330,Saint-Chaffrey,5133,6.589222,44.93236,"44.93236,6.589222",Hébergement
+685,Le Rocher,5500,Saint-Bonnet-en-Champsaur,5132,6.106381,44.694723,"44.694723,6.106381",Hébergement
+686,Regence park,83220,Le Pradet,83098,6.025486,43.086191,"43.086191,6.025486",Hébergement
+687,Le Montbrison,5120,Les Vigneaux,5180,6.540833,44.82395,"44.82395,6.540833",Hébergement
+688,Domaine de la Navicelle,83220,Le Pradet,83098,6.038055,43.098642,"43.098642,6.038055",Hébergement
+689,Le Mélezin,5170,Orcières,5096,6.275131,44.678767,"44.678767,6.275131",Hébergement
+690,Le Petit Chalet,5600,Ceillac,5026,6.733041,44.669779,"44.669779,6.733041",Hébergement
+691,"Belambra Club Sélection ""Lou Pigno""",83220,Le Pradet,83098,6.036923,43.104336,"43.104336,6.036923",Hébergement
+692,Le Flourou,5220,Le Monêtier-les-Bains,5079,6.509354,44.974421,"44.974421,6.509354",Hébergement
+693,ESTUDINES (les),6000,Nice,6088,7.235638,43.695533,"43.695533,7.235638",Hébergement
+694,Villa Eglantine,83400,Hyères,83069,6.438317,43.018562,"43.018562,6.438317",Hébergement
+695,Les Drailles - Gîte Boureynaud,5700,Orpierre,5097,5.69198,44.313148,"44.313148,5.69198",Hébergement
+696,MMV Le Hameau des Airelles,5100,Montgenèvre,5085,6.730472,44.93485,"44.93485,6.730472",Hébergement
+697,Le Hameau du Puy,5250,Superdévoluy,5901,5.928487,44.679708,"44.679708,5.928487",Hébergement
+698,Chalets et résidence Margot,5250,Superdévoluy,5901,5.932145,44.674612,"44.674612,5.932145",Hébergement
+699,Les Dormillouses Gestion Libre,5200,Embrun,5046,6.463417,44.561584,"44.561584,6.463417",Hébergement
+700,Les Carlines,5120,Les Vigneaux,5180,6.540854,44.825924,"44.825924,6.540854",Hébergement
+701,Résidences Arts et Vie,84340,Malaucène,84069,5.128534,44.173382,"44.173382,5.128534",Hébergement
+702,Les Mazets du Ventoux,84340,Malaucène,84069,5.128171,44.171412,"44.171412,5.128171",Hébergement
+703,Le Youkali,83400,Hyères,83069,6.439627,43.019336,"43.019336,6.439627",Hébergement
+704,CENTRE PAUL BENOIT,6420,Valdeblore,6153,7.20067,44.066501,"44.066501,7.20067",Hébergement
+705,Les Chalets d'Aurouze,5250,La Joue du Loup,5902,5.895646,44.688984,"44.688984,5.895646",Hébergement
+706,Gîte d'étape et de séjour le Clair Logis,4170,Saint-André-les-Alpes,4173,6.503553,43.966226,"43.966226,6.503553",Hébergement
+707,Centre de Vacances Chantemerle,4140,Seyne,4205,6.391669,44.33159,"44.33159,6.391669",Hébergement
+708,Centre Départemental d'Animation Rurale CLAEP,84110,Rasteau,84096,4.980984,44.22375,"44.22375,4.980984",Hébergement
+709,Village vacances VVF La Calade,5300,Garde-Colombe,5053,5.755001,44.340954,"44.340954,5.755001",Hébergement
+710,Gîte d'étape les Royères du Prieuré,84660,Maubec,84071,5.132446,43.840282,"43.840282,5.132446",Hébergement
+711,Le Val des Sources,5800,Saint-Maurice-en-Valgaudemar,5152,6.100572,44.802119,"44.802119,6.100572",Hébergement
+712,Résidence Carlton - Vacances Plus,6310,Beaulieu-sur-Mer,6011,7.328847,43.705424,"43.705424,7.328847",Hébergement
+713,ADRECHAS,6420,Valdeblore,6153,7.223375,44.070944,"44.070944,7.223375",Hébergement
+714,Club Vacances Bleues Les Alpes d'Azur,5240,La Salle les Alpes,5161,6.576935,44.93856,"44.93856,6.576935",Hébergement
+715,Brin de Paille,5120,Saint-Martin-de-Queyrières,5151,6.580271,44.854103,"44.854103,6.580271",Hébergement
+716,Résidence Les balcons du Viso,5460,Abriès,5001,6.92663,44.79386,"44.79386,6.92663",Hébergement
+717,Gîte-Auberge Les Dormillouses,5200,Embrun,5046,6.463417,44.561584,"44.561584,6.463417",Hébergement
+718,Les Templitudes : résidence services seniors,83250,La Londe-les-Maures,83071,6.23626,43.135668,"43.135668,6.23626",Hébergement
+719,Les Granges d'Arvieux,5350,Arvieux,5007,6.734359,44.785238,"44.785238,6.734359",Hébergement
+720,Néméa l'Aigle Bleu,5100,Briançon,5023,6.631,44.896012,"44.896012,6.631",Hébergement
+721,Maison forestière ONF les Etroits,5140,Saint-Julien-en-Beauchêne,5146,5.724683,44.629687,"44.629687,5.724683",Hébergement
+722,Gite de groupe et de séjour Roche Cline,4250,Turriers,4222,6.172259,44.397466,"44.397466,6.172259",Hébergement
+723,Centre de Vacances Les Gréyères,4140,Seyne,4205,6.351134,44.339886,"44.339886,6.351134",Hébergement
+724,Spa Ventoux Provence,84340,Malaucène,84069,5.141902,44.17633,"44.17633,5.141902",Hébergement
+725,Chalet Les Clarines Odalys,5220,Le Monêtier-les-Bains,5079,,,"nan,nan",Hébergement
+726,Ancolie Bleue,5460,Abriès,5001,6.928447,44.798051,"44.798051,6.928447",Hébergement
+727,Gîte la Grande Ferme,5200,Saint-André-d'Embrun,5128,6.530381,44.576537,"44.576537,6.530381",Hébergement
+728,Le Gassendi,4370,Colmars,4061,6.626056,44.181683,"44.181683,6.626056",Hébergement
+729,Puy de Manse,5260,Forest-Saint-Julien,5056,6.131662,44.645336,"44.645336,6.131662",Hébergement
+730,Chalet La Chaumine,5320,La Grave,5063,6.303954,45.052033,"45.052033,6.303954",Hébergement
+731,RELAIS DE LA REINE,6400,Cannes,6029,7.010541,43.550894,"43.550894,7.010541",Hébergement
+732,VTF Domaine du Grand Luberon,4280,Céreste,4045,5.577881,43.855897,"43.855897,5.577881",Hébergement
+733,Appart Study Avignon - Résidence Eisenhower,84000,Avignon,84007,4.796831,43.937787,"43.937787,4.796831",Hébergement
+734,Gîte l'Oustaou de Compostelle,83480,Puget-sur-Argens,83099,6.683678,43.454803,"43.454803,6.683678",Hébergement
+735,Refuge du Pic du Mas de la Grave - Chez Polyte,5320,La Grave,5063,6.260101,45.086703,"45.086703,6.260101",Hébergement
+736,Les Genevriers,83700,Saint-Raphaël,83118,6.775457,43.445012,"43.445012,6.775457",Hébergement
+737,Estivel - Villas Le Clos Savornin ****,84490,Saint-Saturnin-lès-Apt,84118,5.378667,43.930825,"43.930825,5.378667",Hébergement
+738,Chalet Edelweïss - Actions Vacances,5170,Orcières,5096,6.325067,44.684209,"44.684209,6.325067",Hébergement
+739,Le Moulin d'Aimée,5700,Savournon,5165,5.766659,44.413375,"44.413375,5.766659",Hébergement
+740,Les Flocons du Soleil,5250,La Joue du Loup,5902,5.889509,44.688768,"44.688768,5.889509",Hébergement
+741,Gîte de groupe et d'étape du Val de Glaise,5400,Veynes,5179,5.825306,44.571707,"44.571707,5.825306",Hébergement
+742,Résidence Suiteasy Avignon Express,84000,Avignon,84007,4.805781,43.946069,"43.946069,4.805781",Hébergement
+743,"Gîte forestier ""La Fruchière""",4370,Colmars,4061,6.671679,44.150804,"44.150804,6.671679",Hébergement
+744,UFCV Côte d'Azur,83700,Saint-Raphaël,83118,6.790561,43.426273,"43.426273,6.790561",Hébergement
+745,Gîte de groupe la Grande Maison,84390,Aurel,84005,5.432868,44.129652,"44.129652,5.432868",Hébergement
+746,La Pervenche,6220,Vallauris Golfe - Juan,6155,7.081291,43.570727,"43.570727,7.081291",Hébergement
+747,Les terrasses du soleil d'or,5200,Les Orres,5098,6.55343,44.483394,"44.483394,6.55343",Hébergement
+748,Pierre et Vacances - l'Alpaga,5240,La Salle les Alpes,5161,6.557422,44.946698,"44.946698,6.557422",Hébergement
+749,Refuge du Pelvoux,5340,Vallouise-Pelvoux,5101,6.405662,44.882652,"44.882652,6.405662",Hébergement
+750,Le Pigeonnier,5800,La Chapelle-en-Valgaudemar,5064,6.280789,44.854774,"44.854774,6.280789",Hébergement
+751,"Gîte forestier ""Congerman""",4370,Colmars,4061,6.635931,44.114104,"44.114104,6.635931",Hébergement
+752,RESIDHOTEL LES CORALYNES,6400,Cannes,6029,7.014267,43.554619,"43.554619,7.014267",Hébergement
+753,Gîte des Cougnas,4170,Saint-André-les-Alpes,4173,6.506103,43.959941,"43.959941,6.506103",Hébergement
+754,Refuge du Sélé,5340,Vallouise-Pelvoux,5101,6.390474,44.873351,"44.873351,6.390474",Hébergement
+755,Résidence de Vacances Les Petitons,84580,Oppède,84086,5.165149,43.833205,"43.833205,5.165149",Hébergement
+756,Refuge du Goléon,5320,La Grave,5063,6.356621,45.081279,"45.081279,6.356621",Hébergement
+757,ADAGIO ACCESS NICE ACROPOLIS,6000,Nice,6088,7.280822,43.703717,"43.703717,7.280822",Hébergement
+758,Refuge Cézanne,5340,Vallouise-Pelvoux,5101,6.415562,44.918087,"44.918087,6.415562",Hébergement
+759,Pré la Chaumette,5260,Champoléon,5032,6.326108,44.763815,"44.763815,6.326108",Hébergement
+760,Gîte Plume et Pain,5160,Pontis,4154,6.357466,44.504172,"44.504172,6.357466",Hébergement
+761,Refuge I Re Magi,5100,Névache,5093,6.623082,45.070614,"45.070614,6.623082",Hébergement
+762,Le Tourond,5260,Champoléon,5032,6.22228,44.717035,"44.717035,6.22228",Hébergement
+763,Refuge Evariste Chancel,5320,La Grave,5063,6.27123,45.026769,"45.026769,6.27123",Hébergement
+764,La petite Agapanthe,5400,Manteyer,5075,5.953426,44.545704,"44.545704,5.953426",Hébergement
+765,Résidence Suiteasy République,84000,Avignon,84007,4.805781,43.946069,"43.946069,4.805781",Hébergement
+766,Comfort Suites Cannes-Mandelieu,6210,Mandelieu-la-Napoule,6079,6.942557,43.536603,"43.536603,6.942557",Hébergement
+767,Belambra Club Le Verdon,4500,Montagnac-Montpezat,4124,6.089505,43.750505,"43.750505,6.089505",Hébergement
+768,Résidence de vacances Odésia,83830,Figanières,83056,6.508412,43.571873,"43.571873,6.508412",Hébergement
+769,Gîte d'Etape l'Escargot,4500,Quinson,4158,6.039243,43.700074,"43.700074,6.039243",Hébergement

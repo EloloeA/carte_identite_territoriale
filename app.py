@@ -9,19 +9,32 @@ Created on Wed Jul 15 10:20:18 2020
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from datetime import datetime as dt
 import dash_table
+import re
 from dash.dependencies import Input, Output
+import plotly.figure_factory as ff
+import os
+import pathlib
 
 import plotly.express as px
 import pandas as pd
 
 import outils
 
-
+# chargement des dataframes
 lien_df_portrait = "https://raw.githubusercontent.com/MeryemGrassi/Projet-CI-territoitre/master/data/df_PORTRAIT.csv"
 df = pd.read_csv(lien_df_portrait, index_col = 0)
 # retirer les nan des PNR
 df['PNR'].fillna('', inplace = True)
+
+# échelle couleur pour les tables
+colorscale = [[0, '#014b86'],[.5, '#C1E2FA'],[1, '#ffffff']]
+
+dir = os.getcwd() + "\data"
+lien_df_resto = os.path.join(dir, "APIDAE_Final.csv")
+df_resto = pd.read_csv(lien_df_resto, index_col = 0)
+
 
 # dictionnaire des départements pour le dropdown #TODO PB avec accents capital avec accent triés à la fin...
 dep = df[['CODE_INSEE', 'COMMUNE']]
@@ -31,13 +44,13 @@ dep = dep.to_dict(orient = 'records')
 
  
 
-
+#initialisation du dashboard
 app = dash.Dash(__name__)
 
-colors = {
-    'background': 'white',
-    'text': '#0072bc'
-}
+# colors = {
+#     'background': 'white',
+#     'text': '#0072bc'
+# }
 
 
 # carte
@@ -49,98 +62,67 @@ def mapSud(df):
     return geo
 
 
-# (essai graphe à ne pas conserver)
-def portraitVille(df, commune):
-    fig = px.bar(df, y='COMMUNE', x='POPULATION_2016',
-             hover_data=['SUPERFICIE_2016', 'DENSITE_POP_2016'], color='DENSITE_POP_2016',
-             title = f"Population 2016 pour la commune : {commune}",
-             height=500,
-             orientation = 'h')
-    return fig
-
-
-
-app.layout = html.Div(id= 'main',
-                      children = [
-                          html.Div(className = 'one_column', 
+app.layout = html.Div(id= 'main', children = [
+                          html.Div(className = 'topHeader',
                                    children = [
                                      html.H1(children = "Carte d'identité Territoriale - REGION SUD",
                                      ),
                              
-                                    html.H3(children = "Prototype d'application de l'utilisation des données OpenSource de la région SUD. Projet REGION SUD by WILD CODE SCHOOL", 
+                                    html.H3(children = "Prototype d'application de l'utilisation des données OpenSource de la région SUD", 
                                      ),
-                                    
+                                    html.Br(),
                                     html.P('Sélectionnez une ville :'),
                              
                                     dcc.Dropdown(
                                         id = 'cityChoice',
                                         options = dep,
                                         multi=False,
-                                        value = 4001
-                                        ),
-                             
-                                    html.P(id = 'display_name_of_city'),
-                                    ]),
+                                        value = 4001)
+                                        ]),
+                          html.Br(),
                           
-                          html.Div([
-                              html.Div(['Superficie (en km²) :',
-                                html.Div(id = 'superficie')
-                                        ], style = {'textAlign' : 'center', 'margin' : '10px 10px 10px 10px'}),
-                              html.Div(['Département : ',
-                                        html.Div(id = 'departement')
-                                        ], style = {'textAlign' : 'center', 'margin' : '10px 10px 10px 10px'}),
-                              html.Div(['Densité de population : ',
-                                        html.Div(id = 'densitePop')
-                                        ], style = {'textAlign' : 'center',  'margin' : '10px 10px 10px 10px'}),
-                              html.Div(["Nombre d'habitants : ",
-                                        html.Div(id = 'nbreHabitant')
-                                        ], style = {'textAlign' : 'center',  'margin' : '10px 10px 10px 10px'})
-                              ],
-                              
-                              style = {'color' : 'orange', 'display' : 'flex', 'justify-content' : 'center'}),
+                          html.Div(id = 'display_name_of_city'),
+                          
+                          html.Div(id = 'superficieDepPop', 
+                                   children = [
+                                      html.Div(['Département : ',
+                                                html.Div(id = 'departement')
+                                                ], style = {'margin' : '20px'}),
+                                      html.Div(['Densité de population (hab/km²): ',
+                                                html.Div(id = 'densitePop')
+                                                ], style = {'margin' : '20px'}),
+                                      html.Div(["Nombre d'habitants : ",
+                                                html.Div(id = 'nbreHabitant')
+                                                ], style = {'margin' : '20px'}),
+                                      html.Div(['Superficie (en km²) :',
+                                                 html.Div(id = 'superficie')
+                                                ], style = {'margin' : '20px'})
+                                      ,
+                                      dcc.Graph(id = 'mapOfCity', className = 'mapLocalisation',
+                                              figure = {})
+                                              ]),
                                                          
-                                    
-                            html.Div(className = 'two_columns',
-                                     children = [
-                                         html.Div(id = 'bloc_droite'),
-                                         html.Div(className = 'bloc2', children = [
-                                             dcc.Graph(id = 'mapOfCity', figure = {}),
-                                             html.Div(id = 'PNR')
-                                             ])
-                                         ]),
+                            html.Br(),
+                            html.P(id = 'PNR'),
+                            html.Br(),
+                            html.Br(),
+                            html.Div("Nombre d'hébergements (hôtels, campings, auberges)\
+                                         pour cette commune : ", style = {'textAlign' : 'center'}),
+                            html.Div(id = 'nbreLogement', style = {'textAlign' : 'center'}),
+                            #table logement si existant ou < 5
+                            html.Div(dcc.Graph(id = 'hotel', figure = {})
+                                         ),
                             
-                            html.Div(className = 'one_column',
-                                     children = [
-                                         dash_table.DataTable(
-                                            id='table',
-                                            columns=[{"name": i, "id": i} for i in df.columns],
-                                            data=df.to_dict('records')),
-                                         
-                                         dcc.Graph(),
-                                         
-                                         dash_table.DataTable()
-                                         ])
+                            dcc.Graph(id = 'mapOfHotel', figure = {}),
+                            
+                            html.Br(),
+                            html.Br(),
+                            
+                            html.Footer("Projet REGION SUD by WILD CODE SCHOOL")
                             ])
                           
 
-# MAJ du portrait
-# @app.callback(
-#     Output('portrait', 'children'),
-#     [Input('cityChoice', 'value')])
-# def update_output_div(input_value):
-#     dff = df[df['CODE_INSEE'] == input_value]
-#     ville = dff.iloc[0]['COMMUNE']
-#     nbreHabitant = dff.iloc[0]['POPULATION_2016']
-#     superficie = dff.iloc[0]['SUPERFICIE_2016']
-#     densitePop = dff.iloc[0]['DENSITE_POP_2016']
-#     departement = dff.iloc[0]['DEPARTEMENT']
-#     return f"""\
-#         Votre commune : {ville} a {nbreHabitant} habitants, pour une surface totale de {superficie} km²
-#         soit une densité de population de {densitePop} habitants par km² (source : INSEE 2016).
-#         DEPARTEMENT : {departement}\
-#         """
-
-# décomposition du portrait
+# MAJ des éléments du portrait
 @app.callback(
     Output('nbreHabitant', 'children'),
     [Input('cityChoice', 'value')])
@@ -193,6 +175,47 @@ def update_map(input_value):
     fig2.update_layout(transition_duration=500)
     return fig2
 
+#MAJ carte des restaurants, hôtels et auberges
+@app.callback(
+    Output('mapOfHotel', 'figure'),
+    [Input('cityChoice', 'value')])
+def update_mapResto(input_value):
+    df_sel = df_resto[df_resto['Code insee'] == input_value]
+    geo = px.scatter_mapbox(df_sel, lat='Latitude', lon='Longitude', hover_name= 'Nom',\
+                        zoom = 10, height = 500, width = 800, title = "Hôtels, campings et Auberges",\
+                        color = df_sel.index) #, color_discrete_sequence = '#ff0000'
+    geo.update_layout(mapbox_style="carto-positron") #"open-street-map", "carto-positron", "carto-darkmatter", "stamen-terrain", "stamen-toner" or "stamen-watercolor"
+    return geo
+
+# table avec liste hotels/camping/auberge
+@app.callback(
+    Output('hotel', 'figure'),
+    [Input('cityChoice', 'value')])
+def liste_hotel(input_value):
+    df_sel = df_resto[df_resto['Code insee'] == input_value]
+    if df_sel.shape[0] == 0:
+        nombre = 0
+        commune = df[df['CODE_INSEE'] == input_value]['COMMUNE']
+        df_hotel = [['Commune', "Nombre d'hébergements"], [commune, nombre]]
+        df_hotel = ff.create_table(df_hotel, colorscale=colorscale)
+    elif df_sel.shape[0] < 6:
+        commune = df_sel.iloc[0]['Commune']
+        df_hotel = ff.create_table(df_sel[['Commune', 'Nom', 'Type']], colorscale=colorscale)
+    else:
+        nombre = df_sel.shape[0]
+        commune = df_sel.iloc[0]['Commune']
+        df_hotel = [['Commune', "Nombre d'hébergements"], [commune, nombre]]
+        df_hotel = ff.create_table(df_hotel, colorscale=colorscale)
+    return df_hotel
+        
+        
+# nombre d'hôtel/campings/auberges
+@app.callback(
+    Output('nbreLogement', 'children'),
+    [Input('cityChoice', 'value')])
+def nombre_logement(input_value):
+    df_sel = df_resto[df_resto['Code insee'] == input_value]
+    return df_sel.shape[0]
 
 # MAJ du PNR
 @app.callback(
@@ -212,7 +235,6 @@ def update_output_pnr(input_value):
                La densité moyenne des communes du {resPNR} est de {densiteMoy} hab/km2.')
     
     else:
-        df_PNR = df.loc[df["PNR"] != ""]
         resVilleProche, nbre_km = outils.distanceCommunes(df, input_value)
         resVilleProche = int(resVilleProche)
         resPNR_villeProche = df.loc[df['CODE_INSEE'] == resVilleProche, 'PNR'].values[0]
@@ -223,17 +245,6 @@ def update_output_pnr(input_value):
                 Distance en km : {round(nbre_km)}")  
 
      
-
-#MAJ table
-@app.callback(
-    Output('table', 'data'),
-    [Input('cityChoice', 'value')])
-def update_table(input_value):
-    dff = df[df['CODE_INSEE'] == input_value]
-    return dff.to_dict('records')
-
-
-
 
 
 if __name__ == '__main__':
