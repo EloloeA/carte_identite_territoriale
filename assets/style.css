@@ -1,0 +1,133 @@
+
+#main
+{
+    font-family:'Tahoma';
+    background-color : white;
+margin : 50px;
+}
+
+h1
+{
+    color : #014b86;
+    text-align : center;
+    
+}
+
+h3
+{
+    color : #0072bc;
+    text-align : center;
+}
+
+
+#cityChoice
+{
+    width : 30% ;
+}
+
+
+#display_name_of_city
+{
+    color : #fcb017;
+    font-size : 2em;
+margin : 20px;
+}
+
+#my-date-picker-range
+{
+margin : 20px;
+}
+
+
+#PNR
+{
+text-align : center;
+color : #014b86;
+}
+
+
+.displayNameDate
+{
+display : flex;
+background-color : #0072bc;
+justify-content : space-around;
+
+}
+
+
+#superficieDepPop
+{
+display : flex;
+text-align : center;
+align-items : stretch;
+border-radius: 5px;
+  background-color: #f9f9f9;
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+
+#superficie
+{
+text-align : center;
+margin : 20px;
+border-radius: 5px;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 2px 2px 2px lightgrey;
+color : #fcb017;
+}
+
+
+#departement
+{
+text-align : center;
+margin : 20px;
+border-radius: 5px;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 2px 2px 2px lightgrey;
+color : #fcb017;
+}
+
+#densitePop
+{
+text-align : center;
+margin : 20px;
+border-radius: 5px;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 2px 2px 2px lightgrey;
+color : #fcb017;
+}
+
+#nbreHabitant
+{
+text-align : center;
+margin : 20px;
+border-radius: 5px;
+  background-color: white;
+  padding: 15px;
+  box-shadow: 2px 2px 2px lightgrey;
+color : #fcb017;
+}
+
+.mapLocalisation
+
+#output-container-date-picker-range
+{
+margin : 20px;
+}
+
+
+
+
+
+
+/*pour adapter le site en responsive*/
+
+@media screen and (max-width:1024px)
+    {
+
+}
+            
