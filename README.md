@@ -26,6 +26,9 @@ Le travail a été effectué par une équipe de 5 étudiants de la Wild Code Sch
 Les fichiers :
 - app.py => code Python d'execution du dashboard
 - outils.py => module nécessaire à l'execution de app.py et contenant les principales fonctions
+
 data => répertoire des données
 
-Un sondage auprès de XX personnes a été préalablement effectué. Les résultats de ce sondage sont également disponibles dans le dossier SONDAGE.
+assets => contient le code style.css qui est directement lu par le dashboard pour sa mise en page
+
+Un sondage auprès de 160 personnes a été préalablement effectué. Les résultats de ce sondage sont également disponibles dans le dossier SONDAGE.
